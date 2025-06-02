@@ -1,0 +1,20 @@
+# Ignorer les environnements virtuels
+fornor_vmi/venv/
+adler_vmi/venv/
+
+# Fichiers python compilés
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers de logs
+*.log
+
+# Variables d'environnement
+.env
+
+# Autres fichiers temporaires
+*.sqlite3
+*.db
+.DS_Store
+
