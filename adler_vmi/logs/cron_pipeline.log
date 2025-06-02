@@ -1,0 +1,715 @@
+
+🚀 Exécution : fetch_adler_stock.py
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250514.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250514_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHYQI_20250514_00.TXT vers upload/RETAIL_FEED_WHYQI_20250514_00.TXT
+✅ Fichier WHYQI du jour envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-05-14 15:17:59
+
+🚀 Exécution : fetch_adler_stock.py
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250515.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250515_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHYQI_20250515_00.TXT vers upload/RETAIL_FEED_WHYQI_20250515_00.TXT
+✅ Fichier WHYQI du jour envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-05-15 05:00:05
+
+🚀 Exécution : fetch_adler_stock.py
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250516.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250516_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHYQI_20250516_00.TXT vers upload/RETAIL_FEED_WHYQI_20250516_00.TXT
+✅ Fichier WHYQI du jour envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-05-16 05:00:05
+
+🚀 Exécution : fetch_adler_stock.py
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250517.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250517_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHYQI_20250517_00.TXT vers upload/RETAIL_FEED_WHYQI_20250517_00.TXT
+✅ Fichier WHYQI du jour envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-05-17 05:00:04
+
+🚀 Exécution : fetch_adler_stock.py
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250518.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250518_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHYQI_20250518_00.TXT vers upload/RETAIL_FEED_WHYQI_20250518_00.TXT
+✅ Fichier WHYQI du jour envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-05-18 05:00:04
+
+🚀 Exécution : fetch_adler_stock.py
+🗑️ Supprimé : adler_stock_20250512.csv
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250519.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250519_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHYQI_20250519_00.TXT vers upload/RETAIL_FEED_WHYQI_20250519_00.TXT
+✅ Fichier WHYQI du jour envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-05-19 05:00:05
+
+🚀 Exécution : fetch_adler_stock.py
+🗑️ Supprimé : adler_stock_20250513.csv
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250520.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250520_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHYQI_20250520_00.TXT vers upload/RETAIL_FEED_WHYQI_20250520_00.TXT
+✅ Fichier WHYQI du jour envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-05-20 05:00:09
+
+🚀 Exécution : fetch_adler_stock.py
+🗑️ Supprimé : adler_stock_20250514.csv
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250521.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+🗑️ Supprimé : RETAIL_FEED_WHZ9J_20250514_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZB4_20250514_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHYQI_20250514_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9N_20250514_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9I_20250514_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZA1_20250514_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZA0_20250514_00.TXT
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250521_00.TXT
+
+
+🚀 Exécution : duplicate_invrpt_multi_country.py
+✅ Fichier dupliqué pour DE → RETAIL_FEED_WHZA1_20250521_00.TXT
+✅ Fichier dupliqué pour ES → RETAIL_FEED_WHZ9J_20250521_00.TXT
+✅ Fichier dupliqué pour IT → RETAIL_FEED_WHZ9I_20250521_00.TXT
+✅ Fichier dupliqué pour SE → RETAIL_FEED_WHZA0_20250521_00.TXT
+✅ Fichier dupliqué pour NL → RETAIL_FEED_WHZ9N_20250521_00.TXT
+✅ Fichier dupliqué pour BE → RETAIL_FEED_WHZB4_20250521_00.TXT
+✅ Fichier dupliqué pour PL → RETAIL_FEED_WHZ9Y_20250521_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHZ9I_20250521_00.TXT vers upload/RETAIL_FEED_WHZ9I_20250521_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9J_20250521_00.TXT vers upload/RETAIL_FEED_WHZ9J_20250521_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9N_20250521_00.TXT vers upload/RETAIL_FEED_WHZ9N_20250521_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9Y_20250521_00.TXT vers upload/RETAIL_FEED_WHZ9Y_20250521_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA0_20250521_00.TXT vers upload/RETAIL_FEED_WHZA0_20250521_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA1_20250521_00.TXT vers upload/RETAIL_FEED_WHZA1_20250521_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZB4_20250521_00.TXT vers upload/RETAIL_FEED_WHZB4_20250521_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHYQI_20250521_00.TXT vers upload/RETAIL_FEED_WHYQI_20250521_00.TXT
+✅ Fichier envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-05-21 05:00:07
+
+🚀 Exécution : fetch_adler_stock.py
+🗑️ Supprimé : adler_stock_20250515.csv
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250522.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+🗑️ Supprimé : RETAIL_FEED_WHYQI_20250515_00.TXT
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250522_00.TXT
+
+
+🚀 Exécution : duplicate_invrpt_multi_country.py
+✅ Fichier dupliqué pour DE → RETAIL_FEED_WHZA1_20250522_00.TXT
+✅ Fichier dupliqué pour ES → RETAIL_FEED_WHZ9J_20250522_00.TXT
+✅ Fichier dupliqué pour IT → RETAIL_FEED_WHZ9I_20250522_00.TXT
+✅ Fichier dupliqué pour SE → RETAIL_FEED_WHZA0_20250522_00.TXT
+✅ Fichier dupliqué pour NL → RETAIL_FEED_WHZ9N_20250522_00.TXT
+✅ Fichier dupliqué pour BE → RETAIL_FEED_WHZB4_20250522_00.TXT
+✅ Fichier dupliqué pour PL → RETAIL_FEED_WHZ9Y_20250522_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHZ9I_20250522_00.TXT vers upload/RETAIL_FEED_WHZ9I_20250522_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9J_20250522_00.TXT vers upload/RETAIL_FEED_WHZ9J_20250522_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9N_20250522_00.TXT vers upload/RETAIL_FEED_WHZ9N_20250522_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9Y_20250522_00.TXT vers upload/RETAIL_FEED_WHZ9Y_20250522_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA0_20250522_00.TXT vers upload/RETAIL_FEED_WHZA0_20250522_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA1_20250522_00.TXT vers upload/RETAIL_FEED_WHZA1_20250522_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZB4_20250522_00.TXT vers upload/RETAIL_FEED_WHZB4_20250522_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHYQI_20250522_00.TXT vers upload/RETAIL_FEED_WHYQI_20250522_00.TXT
+✅ Fichier envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-05-22 05:00:06
+
+🚀 Exécution : fetch_adler_stock.py
+🗑️ Supprimé : adler_stock_20250516.csv
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250523.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+🗑️ Supprimé : RETAIL_FEED_WHYQI_20250516_00.TXT
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250523_00.TXT
+
+
+🚀 Exécution : duplicate_invrpt_multi_country.py
+✅ Fichier dupliqué pour DE → RETAIL_FEED_WHZA1_20250523_00.TXT
+✅ Fichier dupliqué pour ES → RETAIL_FEED_WHZ9J_20250523_00.TXT
+✅ Fichier dupliqué pour IT → RETAIL_FEED_WHZ9I_20250523_00.TXT
+✅ Fichier dupliqué pour SE → RETAIL_FEED_WHZA0_20250523_00.TXT
+✅ Fichier dupliqué pour NL → RETAIL_FEED_WHZ9N_20250523_00.TXT
+✅ Fichier dupliqué pour BE → RETAIL_FEED_WHZB4_20250523_00.TXT
+✅ Fichier dupliqué pour PL → RETAIL_FEED_WHZ9Y_20250523_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHZ9I_20250523_00.TXT vers upload/RETAIL_FEED_WHZ9I_20250523_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9J_20250523_00.TXT vers upload/RETAIL_FEED_WHZ9J_20250523_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9N_20250523_00.TXT vers upload/RETAIL_FEED_WHZ9N_20250523_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9Y_20250523_00.TXT vers upload/RETAIL_FEED_WHZ9Y_20250523_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA0_20250523_00.TXT vers upload/RETAIL_FEED_WHZA0_20250523_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA1_20250523_00.TXT vers upload/RETAIL_FEED_WHZA1_20250523_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZB4_20250523_00.TXT vers upload/RETAIL_FEED_WHZB4_20250523_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHYQI_20250523_00.TXT vers upload/RETAIL_FEED_WHYQI_20250523_00.TXT
+✅ Fichier envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-05-23 05:00:11
+
+🚀 Exécution : fetch_adler_stock.py
+🗑️ Supprimé : adler_stock_20250517.csv
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250524.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+🗑️ Supprimé : RETAIL_FEED_WHYQI_20250517_00.TXT
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250524_00.TXT
+
+
+🚀 Exécution : duplicate_invrpt_multi_country.py
+✅ Fichier dupliqué pour DE → RETAIL_FEED_WHZA1_20250524_00.TXT
+✅ Fichier dupliqué pour ES → RETAIL_FEED_WHZ9J_20250524_00.TXT
+✅ Fichier dupliqué pour IT → RETAIL_FEED_WHZ9I_20250524_00.TXT
+✅ Fichier dupliqué pour SE → RETAIL_FEED_WHZA0_20250524_00.TXT
+✅ Fichier dupliqué pour NL → RETAIL_FEED_WHZ9N_20250524_00.TXT
+✅ Fichier dupliqué pour BE → RETAIL_FEED_WHZB4_20250524_00.TXT
+✅ Fichier dupliqué pour PL → RETAIL_FEED_WHZ9Y_20250524_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHZ9I_20250524_00.TXT vers upload/RETAIL_FEED_WHZ9I_20250524_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9J_20250524_00.TXT vers upload/RETAIL_FEED_WHZ9J_20250524_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9N_20250524_00.TXT vers upload/RETAIL_FEED_WHZ9N_20250524_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9Y_20250524_00.TXT vers upload/RETAIL_FEED_WHZ9Y_20250524_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA0_20250524_00.TXT vers upload/RETAIL_FEED_WHZA0_20250524_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA1_20250524_00.TXT vers upload/RETAIL_FEED_WHZA1_20250524_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZB4_20250524_00.TXT vers upload/RETAIL_FEED_WHZB4_20250524_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHYQI_20250524_00.TXT vers upload/RETAIL_FEED_WHYQI_20250524_00.TXT
+✅ Fichier envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-05-24 05:00:08
+
+🚀 Exécution : fetch_adler_stock.py
+🗑️ Supprimé : adler_stock_20250518.csv
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250525.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+🗑️ Supprimé : RETAIL_FEED_WHYQI_20250518_00.TXT
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250525_00.TXT
+
+
+🚀 Exécution : duplicate_invrpt_multi_country.py
+✅ Fichier dupliqué pour DE → RETAIL_FEED_WHZA1_20250525_00.TXT
+✅ Fichier dupliqué pour ES → RETAIL_FEED_WHZ9J_20250525_00.TXT
+✅ Fichier dupliqué pour IT → RETAIL_FEED_WHZ9I_20250525_00.TXT
+✅ Fichier dupliqué pour SE → RETAIL_FEED_WHZA0_20250525_00.TXT
+✅ Fichier dupliqué pour NL → RETAIL_FEED_WHZ9N_20250525_00.TXT
+✅ Fichier dupliqué pour BE → RETAIL_FEED_WHZB4_20250525_00.TXT
+✅ Fichier dupliqué pour PL → RETAIL_FEED_WHZ9Y_20250525_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHZ9I_20250525_00.TXT vers upload/RETAIL_FEED_WHZ9I_20250525_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9J_20250525_00.TXT vers upload/RETAIL_FEED_WHZ9J_20250525_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9N_20250525_00.TXT vers upload/RETAIL_FEED_WHZ9N_20250525_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9Y_20250525_00.TXT vers upload/RETAIL_FEED_WHZ9Y_20250525_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA0_20250525_00.TXT vers upload/RETAIL_FEED_WHZA0_20250525_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA1_20250525_00.TXT vers upload/RETAIL_FEED_WHZA1_20250525_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZB4_20250525_00.TXT vers upload/RETAIL_FEED_WHZB4_20250525_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHYQI_20250525_00.TXT vers upload/RETAIL_FEED_WHYQI_20250525_00.TXT
+✅ Fichier envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-05-25 05:00:05
+
+🚀 Exécution : fetch_adler_stock.py
+🗑️ Supprimé : adler_stock_20250519.csv
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250526.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+🗑️ Supprimé : RETAIL_FEED_WHYQI_20250519_00.TXT
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250526_00.TXT
+
+
+🚀 Exécution : duplicate_invrpt_multi_country.py
+✅ Fichier dupliqué pour DE → RETAIL_FEED_WHZA1_20250526_00.TXT
+✅ Fichier dupliqué pour ES → RETAIL_FEED_WHZ9J_20250526_00.TXT
+✅ Fichier dupliqué pour IT → RETAIL_FEED_WHZ9I_20250526_00.TXT
+✅ Fichier dupliqué pour SE → RETAIL_FEED_WHZA0_20250526_00.TXT
+✅ Fichier dupliqué pour NL → RETAIL_FEED_WHZ9N_20250526_00.TXT
+✅ Fichier dupliqué pour BE → RETAIL_FEED_WHZB4_20250526_00.TXT
+✅ Fichier dupliqué pour PL → RETAIL_FEED_WHZ9Y_20250526_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHZ9I_20250526_00.TXT vers upload/RETAIL_FEED_WHZ9I_20250526_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9J_20250526_00.TXT vers upload/RETAIL_FEED_WHZ9J_20250526_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9N_20250526_00.TXT vers upload/RETAIL_FEED_WHZ9N_20250526_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9Y_20250526_00.TXT vers upload/RETAIL_FEED_WHZ9Y_20250526_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA0_20250526_00.TXT vers upload/RETAIL_FEED_WHZA0_20250526_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA1_20250526_00.TXT vers upload/RETAIL_FEED_WHZA1_20250526_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZB4_20250526_00.TXT vers upload/RETAIL_FEED_WHZB4_20250526_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHYQI_20250526_00.TXT vers upload/RETAIL_FEED_WHYQI_20250526_00.TXT
+✅ Fichier envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-05-26 05:00:07
+
+🚀 Exécution : fetch_adler_stock.py
+🗑️ Supprimé : adler_stock_20250520.csv
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250527.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+🗑️ Supprimé : RETAIL_FEED_WHZ9I_20250520_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9J_20250520_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9N_20250520_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZB4_20250520_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZA0_20250520_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9Y_20250520_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHYQI_20250520_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZA1_20250520_00.TXT
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250527_00.TXT
+
+
+🚀 Exécution : duplicate_invrpt_multi_country.py
+✅ Fichier dupliqué pour DE → RETAIL_FEED_WHZA1_20250527_00.TXT
+✅ Fichier dupliqué pour ES → RETAIL_FEED_WHZ9J_20250527_00.TXT
+✅ Fichier dupliqué pour IT → RETAIL_FEED_WHZ9I_20250527_00.TXT
+✅ Fichier dupliqué pour SE → RETAIL_FEED_WHZA0_20250527_00.TXT
+✅ Fichier dupliqué pour NL → RETAIL_FEED_WHZ9N_20250527_00.TXT
+✅ Fichier dupliqué pour BE → RETAIL_FEED_WHZB4_20250527_00.TXT
+✅ Fichier dupliqué pour PL → RETAIL_FEED_WHZ9Y_20250527_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHZ9I_20250527_00.TXT vers upload/RETAIL_FEED_WHZ9I_20250527_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9J_20250527_00.TXT vers upload/RETAIL_FEED_WHZ9J_20250527_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9N_20250527_00.TXT vers upload/RETAIL_FEED_WHZ9N_20250527_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9Y_20250527_00.TXT vers upload/RETAIL_FEED_WHZ9Y_20250527_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA0_20250527_00.TXT vers upload/RETAIL_FEED_WHZA0_20250527_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA1_20250527_00.TXT vers upload/RETAIL_FEED_WHZA1_20250527_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZB4_20250527_00.TXT vers upload/RETAIL_FEED_WHZB4_20250527_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHYQI_20250527_00.TXT vers upload/RETAIL_FEED_WHYQI_20250527_00.TXT
+✅ Fichier envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-05-27 05:00:06
+
+🚀 Exécution : fetch_adler_stock.py
+🗑️ Supprimé : adler_stock_20250521.csv
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250528.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+🗑️ Supprimé : RETAIL_FEED_WHYQI_20250521_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9J_20250521_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9N_20250521_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9I_20250521_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZA0_20250521_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9Y_20250521_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZB4_20250521_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZA1_20250521_00.TXT
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250528_00.TXT
+
+
+🚀 Exécution : duplicate_invrpt_multi_country.py
+✅ Fichier dupliqué pour DE → RETAIL_FEED_WHZA1_20250528_00.TXT
+✅ Fichier dupliqué pour ES → RETAIL_FEED_WHZ9J_20250528_00.TXT
+✅ Fichier dupliqué pour IT → RETAIL_FEED_WHZ9I_20250528_00.TXT
+✅ Fichier dupliqué pour SE → RETAIL_FEED_WHZA0_20250528_00.TXT
+✅ Fichier dupliqué pour NL → RETAIL_FEED_WHZ9N_20250528_00.TXT
+✅ Fichier dupliqué pour BE → RETAIL_FEED_WHZB4_20250528_00.TXT
+✅ Fichier dupliqué pour PL → RETAIL_FEED_WHZ9Y_20250528_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHZ9I_20250528_00.TXT vers upload/RETAIL_FEED_WHZ9I_20250528_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9J_20250528_00.TXT vers upload/RETAIL_FEED_WHZ9J_20250528_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9N_20250528_00.TXT vers upload/RETAIL_FEED_WHZ9N_20250528_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9Y_20250528_00.TXT vers upload/RETAIL_FEED_WHZ9Y_20250528_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA0_20250528_00.TXT vers upload/RETAIL_FEED_WHZA0_20250528_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA1_20250528_00.TXT vers upload/RETAIL_FEED_WHZA1_20250528_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZB4_20250528_00.TXT vers upload/RETAIL_FEED_WHZB4_20250528_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHYQI_20250528_00.TXT vers upload/RETAIL_FEED_WHYQI_20250528_00.TXT
+✅ Fichier envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-05-28 05:00:06
+
+🚀 Exécution : fetch_adler_stock.py
+🗑️ Supprimé : adler_stock_20250522.csv
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250529.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+🗑️ Supprimé : RETAIL_FEED_WHZ9Y_20250522_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZB4_20250522_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9I_20250522_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZA0_20250522_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9N_20250522_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9J_20250522_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZA1_20250522_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHYQI_20250522_00.TXT
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250529_00.TXT
+
+
+🚀 Exécution : duplicate_invrpt_multi_country.py
+✅ Fichier dupliqué pour DE → RETAIL_FEED_WHZA1_20250529_00.TXT
+✅ Fichier dupliqué pour ES → RETAIL_FEED_WHZ9J_20250529_00.TXT
+✅ Fichier dupliqué pour IT → RETAIL_FEED_WHZ9I_20250529_00.TXT
+✅ Fichier dupliqué pour SE → RETAIL_FEED_WHZA0_20250529_00.TXT
+✅ Fichier dupliqué pour NL → RETAIL_FEED_WHZ9N_20250529_00.TXT
+✅ Fichier dupliqué pour BE → RETAIL_FEED_WHZB4_20250529_00.TXT
+✅ Fichier dupliqué pour PL → RETAIL_FEED_WHZ9Y_20250529_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHZ9I_20250529_00.TXT vers upload/RETAIL_FEED_WHZ9I_20250529_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9J_20250529_00.TXT vers upload/RETAIL_FEED_WHZ9J_20250529_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9N_20250529_00.TXT vers upload/RETAIL_FEED_WHZ9N_20250529_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9Y_20250529_00.TXT vers upload/RETAIL_FEED_WHZ9Y_20250529_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA0_20250529_00.TXT vers upload/RETAIL_FEED_WHZA0_20250529_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA1_20250529_00.TXT vers upload/RETAIL_FEED_WHZA1_20250529_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZB4_20250529_00.TXT vers upload/RETAIL_FEED_WHZB4_20250529_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHYQI_20250529_00.TXT vers upload/RETAIL_FEED_WHYQI_20250529_00.TXT
+✅ Fichier envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-05-29 05:00:06
+
+🚀 Exécution : fetch_adler_stock.py
+🗑️ Supprimé : adler_stock_20250523.csv
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250530.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+🗑️ Supprimé : RETAIL_FEED_WHZ9Y_20250523_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZA0_20250523_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9N_20250523_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9I_20250523_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZA1_20250523_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZB4_20250523_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHYQI_20250523_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9J_20250523_00.TXT
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250530_00.TXT
+
+
+🚀 Exécution : duplicate_invrpt_multi_country.py
+✅ Fichier dupliqué pour DE → RETAIL_FEED_WHZA1_20250530_00.TXT
+✅ Fichier dupliqué pour ES → RETAIL_FEED_WHZ9J_20250530_00.TXT
+✅ Fichier dupliqué pour IT → RETAIL_FEED_WHZ9I_20250530_00.TXT
+✅ Fichier dupliqué pour SE → RETAIL_FEED_WHZA0_20250530_00.TXT
+✅ Fichier dupliqué pour NL → RETAIL_FEED_WHZ9N_20250530_00.TXT
+✅ Fichier dupliqué pour BE → RETAIL_FEED_WHZB4_20250530_00.TXT
+✅ Fichier dupliqué pour PL → RETAIL_FEED_WHZ9Y_20250530_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHZ9I_20250530_00.TXT vers upload/RETAIL_FEED_WHZ9I_20250530_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9J_20250530_00.TXT vers upload/RETAIL_FEED_WHZ9J_20250530_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9N_20250530_00.TXT vers upload/RETAIL_FEED_WHZ9N_20250530_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9Y_20250530_00.TXT vers upload/RETAIL_FEED_WHZ9Y_20250530_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA0_20250530_00.TXT vers upload/RETAIL_FEED_WHZA0_20250530_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA1_20250530_00.TXT vers upload/RETAIL_FEED_WHZA1_20250530_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZB4_20250530_00.TXT vers upload/RETAIL_FEED_WHZB4_20250530_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHYQI_20250530_00.TXT vers upload/RETAIL_FEED_WHYQI_20250530_00.TXT
+✅ Fichier envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-05-30 05:00:06
+
+🚀 Exécution : fetch_adler_stock.py
+🗑️ Supprimé : adler_stock_20250524.csv
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250531.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+🗑️ Supprimé : RETAIL_FEED_WHZ9I_20250524_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZA0_20250524_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZA1_20250524_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9Y_20250524_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9N_20250524_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZB4_20250524_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9J_20250524_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHYQI_20250524_00.TXT
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250531_00.TXT
+
+
+🚀 Exécution : duplicate_invrpt_multi_country.py
+✅ Fichier dupliqué pour DE → RETAIL_FEED_WHZA1_20250531_00.TXT
+✅ Fichier dupliqué pour ES → RETAIL_FEED_WHZ9J_20250531_00.TXT
+✅ Fichier dupliqué pour IT → RETAIL_FEED_WHZ9I_20250531_00.TXT
+✅ Fichier dupliqué pour SE → RETAIL_FEED_WHZA0_20250531_00.TXT
+✅ Fichier dupliqué pour NL → RETAIL_FEED_WHZ9N_20250531_00.TXT
+✅ Fichier dupliqué pour BE → RETAIL_FEED_WHZB4_20250531_00.TXT
+✅ Fichier dupliqué pour PL → RETAIL_FEED_WHZ9Y_20250531_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHZ9I_20250531_00.TXT vers upload/RETAIL_FEED_WHZ9I_20250531_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9J_20250531_00.TXT vers upload/RETAIL_FEED_WHZ9J_20250531_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9N_20250531_00.TXT vers upload/RETAIL_FEED_WHZ9N_20250531_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9Y_20250531_00.TXT vers upload/RETAIL_FEED_WHZ9Y_20250531_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA0_20250531_00.TXT vers upload/RETAIL_FEED_WHZA0_20250531_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA1_20250531_00.TXT vers upload/RETAIL_FEED_WHZA1_20250531_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZB4_20250531_00.TXT vers upload/RETAIL_FEED_WHZB4_20250531_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHYQI_20250531_00.TXT vers upload/RETAIL_FEED_WHYQI_20250531_00.TXT
+✅ Fichier envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-05-31 05:00:08
+
+🚀 Exécution : fetch_adler_stock.py
+🗑️ Supprimé : adler_stock_20250525.csv
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250601.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+🗑️ Supprimé : RETAIL_FEED_WHZ9N_20250525_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9Y_20250525_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZA1_20250525_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHYQI_20250525_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZB4_20250525_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9J_20250525_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9I_20250525_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZA0_20250525_00.TXT
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250601_00.TXT
+
+
+🚀 Exécution : duplicate_invrpt_multi_country.py
+✅ Fichier dupliqué pour DE → RETAIL_FEED_WHZA1_20250601_00.TXT
+✅ Fichier dupliqué pour ES → RETAIL_FEED_WHZ9J_20250601_00.TXT
+✅ Fichier dupliqué pour IT → RETAIL_FEED_WHZ9I_20250601_00.TXT
+✅ Fichier dupliqué pour SE → RETAIL_FEED_WHZA0_20250601_00.TXT
+✅ Fichier dupliqué pour NL → RETAIL_FEED_WHZ9N_20250601_00.TXT
+✅ Fichier dupliqué pour BE → RETAIL_FEED_WHZB4_20250601_00.TXT
+✅ Fichier dupliqué pour PL → RETAIL_FEED_WHZ9Y_20250601_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHZ9I_20250601_00.TXT vers upload/RETAIL_FEED_WHZ9I_20250601_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9J_20250601_00.TXT vers upload/RETAIL_FEED_WHZ9J_20250601_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9N_20250601_00.TXT vers upload/RETAIL_FEED_WHZ9N_20250601_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9Y_20250601_00.TXT vers upload/RETAIL_FEED_WHZ9Y_20250601_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA0_20250601_00.TXT vers upload/RETAIL_FEED_WHZA0_20250601_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA1_20250601_00.TXT vers upload/RETAIL_FEED_WHZA1_20250601_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZB4_20250601_00.TXT vers upload/RETAIL_FEED_WHZB4_20250601_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHYQI_20250601_00.TXT vers upload/RETAIL_FEED_WHYQI_20250601_00.TXT
+✅ Fichier envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-06-01 05:00:07
+
+🚀 Exécution : fetch_adler_stock.py
+🗑️ Supprimé : adler_stock_20250526.csv
+📥 Téléchargement du stock depuis https://www.adler.com.pl/index.php/GetCSV/warcsv2/136
+✅ Stock Adler sauvegardé dans /home/ubuntu/edi/data/adler_stock_20250602.csv
+
+
+🚀 Exécution : generate_invrpt_adler.py
+🗑️ Supprimé : RETAIL_FEED_WHZB4_20250526_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHYQI_20250526_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9N_20250526_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9I_20250526_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9J_20250526_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZ9Y_20250526_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZA1_20250526_00.TXT
+🗑️ Supprimé : RETAIL_FEED_WHZA0_20250526_00.TXT
+✅ Fichier Amazon généré : /home/ubuntu/edi/outgoing/RETAIL_FEED_WHYQI_20250602_00.TXT
+
+
+🚀 Exécution : duplicate_invrpt_multi_country.py
+✅ Fichier dupliqué pour DE → RETAIL_FEED_WHZA1_20250602_00.TXT
+✅ Fichier dupliqué pour ES → RETAIL_FEED_WHZ9J_20250602_00.TXT
+✅ Fichier dupliqué pour IT → RETAIL_FEED_WHZ9I_20250602_00.TXT
+✅ Fichier dupliqué pour SE → RETAIL_FEED_WHZA0_20250602_00.TXT
+✅ Fichier dupliqué pour NL → RETAIL_FEED_WHZ9N_20250602_00.TXT
+✅ Fichier dupliqué pour BE → RETAIL_FEED_WHZB4_20250602_00.TXT
+✅ Fichier dupliqué pour PL → RETAIL_FEED_WHZ9Y_20250602_00.TXT
+
+
+🚀 Exécution : send_adler_to_amazon_sftp.py
+📤 Envoi de RETAIL_FEED_WHZ9I_20250602_00.TXT vers upload/RETAIL_FEED_WHZ9I_20250602_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9J_20250602_00.TXT vers upload/RETAIL_FEED_WHZ9J_20250602_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9N_20250602_00.TXT vers upload/RETAIL_FEED_WHZ9N_20250602_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZ9Y_20250602_00.TXT vers upload/RETAIL_FEED_WHZ9Y_20250602_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA0_20250602_00.TXT vers upload/RETAIL_FEED_WHZA0_20250602_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZA1_20250602_00.TXT vers upload/RETAIL_FEED_WHZA1_20250602_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHZB4_20250602_00.TXT vers upload/RETAIL_FEED_WHZB4_20250602_00.TXT
+✅ Fichier envoyé avec succès.
+📤 Envoi de RETAIL_FEED_WHYQI_20250602_00.TXT vers upload/RETAIL_FEED_WHYQI_20250602_00.TXT
+✅ Fichier envoyé avec succès.
+
+
+✅ Pipeline terminé avec succès à 2025-06-02 05:00:06

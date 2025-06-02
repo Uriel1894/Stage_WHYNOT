@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Historique des envois Fornor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 40px;
+        }
+        .section {
+            background-color: white;
+            padding: 25px;
+            border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            max-width: 900px;
+        }
+        h2 {
+            color: #333;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tr.success td {
+            background-color: #e6ffe6;
+        }
+        tr.failure td {
+            background-color: #ffe6e6;
+        }
+        a {
+            text-decoration: none;
+            color: #007BFF;
+            font-weight: bold;
+        }
+        .btn {
+            display: inline-block;
+            margin-top: 10px;
+            background-color: #007BFF;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 4px;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="section">
+        <h2>📦 Historique des envois Fornor</h2>
+        <a href="{{ url_for('upload_fornor') }}" class="btn">← Retour à l'upload</a>
+
+        {% if uploads %}
+        <table>
+            <thead>
+                <tr>
+                    <th>Nom du fichier</th>
+                    <th>Date/Heure</th>
+                    <th>Statut</th>
+                    <th>Détail</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for item in uploads|reverse %}
+                <tr class="{{ 'success' if item.status == 'succès' else 'failure' }}">
+                    <td>{{ item.file }}</td>
+                    <td>{{ item.timestamp }}</td>
+                    <td><strong>{{ item.status|capitalize }}</strong></td>
+                    <td>{{ item.message }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% else %}
+            <p>Aucun envoi enregistré pour le moment.</p>
+        {% endif %}
+    </div>
+</body>
+</html>
+

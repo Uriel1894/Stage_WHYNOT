@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Fichier généré</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f9f9f9;
+        }
+        h2 {
+            color: #333;
+        }
+        button {
+            padding: 10px 20px;
+            margin: 10px 5px;
+            font-size: 14px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        a {
+            text-decoration: none;
+        }
+        .section {
+            background-color: white;
+            padding: 25px;
+            border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            max-width: 600px;
+        }
+    </style>
+</head>
+<body>
+    <div class="section">
+        <h2>✅ Fichier Fornor généré avec succès</h2>
+
+        <a href="/download/{{ file_generated }}">
+            <button>TÉLÉCHARGER RETAIL</button>
+        </a>
+
+        <a href="{{ url_for('historique') }}">
+            <button>📄 Voir l’historique des envois</button>
+        </a>
+
+        <p>Données insérées dans la BDD.</p>
+
+        <hr>
+
+        <form method="POST" enctype="multipart/form-data">
+            <label><strong>Insérer un nouveau fichier CSV Fornor :</strong></label><br><br>
+            <input type="file" name="file" accept=".csv" required><br><br>
+            <button type="submit">SUBMIT</button>
+        </form>
+
+        <form method="GET" action="/logout">
+            <button style="background-color: #dc3545;">Déconnexion</button>
+        </form>
+    </div>
+</body>
+</html>
+

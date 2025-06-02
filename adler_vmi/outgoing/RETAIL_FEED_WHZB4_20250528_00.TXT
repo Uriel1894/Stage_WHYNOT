@@ -1,0 +1,960 @@
+ISBN|EAN|VENDOR_STOCK_ID|TITLE|QTY_ON_HAND|LIST_PRICE_EXCL_TAX|LIST_PRICE_INCL_TAX|COST_PRICE|DISCOUNT|ISO_CURRENCY_CODE
+|5908256836860||Kettle plastic 1,0 L|2491|||||EUR
+|5907468860083||Kettle plastic 1,0 L|2885|||||EUR
+|5905575907295||Paper Shredder|344|||||EUR
+|5905575907318||Paper Shredder|366|||||EUR
+|5905575907332||Paper Shredder|356|||||EUR
+|5905575907370||Paper Shredder|368|||||EUR
+|5905575907356||Paper Shredder|343|||||EUR
+|5905575907394||Paper Shredder|366|||||EUR
+|5905575907257||Paper Shredder|177|||||EUR
+|5905575907271||Paper Shredder|308|||||EUR
+|5908256833395||Alarmclock radio|3437|||||EUR
+|5902934836647||Weather station|57|||||EUR
+|5902934838580||CD Boombox|1923|||||EUR
+|5902934839167||Radio DAB+ Bluetooth|246|||||EUR
+|5902934839181||Bluetooth Radio|1266|||||EUR
+|5903887805636||LED clock with thermometer|714|||||EUR
+|5905575903150||LED clock with thermometer|1644|||||EUR
+|5903887800075||Retro Radio|298|||||EUR
+|5903887807999||Alarm clock|1561|||||EUR
+|5903887808019||Alarm clock|1448|||||EUR
+|5903887808989||Wireless alarm clock with radio|786|||||EUR
+|5903887809009||Wireless alarm clock with radio|0|||||EUR
+|5903887808569||Clock Speaker AD 1191|1823|||||EUR
+|5903887808408||Alarm clock with Wireless Charger|324|||||EUR
+|5903887808385||Alarm clock with Wireless Charger|449|||||EUR
+|5903887809450||Battery-operated alarm clock|1566|||||EUR
+|5903887809474||Battery-operated alarm clock|842|||||EUR
+|5903887809412||Battery-operated alarm clock|2252|||||EUR
+|5903887809436||Battery-operated alarm clock|1039|||||EUR
+|5905575900678||Crank powered Radio|0|||||EUR
+|5905575902009||FM travel radio AD 1198|784|||||EUR
+|5905575902429||Karaoke speaker with microphone|184|||||EUR
+|5905575902382||Karaoke speaker with microphone|567|||||EUR
+|5907633494495||Kettle metal 1,0 L|4176|||||EUR
+|5908256830325||Kettle plastic 1,5 L|3748|||||EUR
+|5908256830646||Kettle metal 1,7 L|0|||||EUR
+|5908256832602||Kettle metal 1,7 L|2854|||||EUR
+|5908256832732||Kettle glass 1,5 L|67|||||EUR
+|5908256832749||Kettle glass 1,7 L|2275|||||EUR
+|5908256833166||Kettle plastic 1,7 L|538|||||EUR
+|5908256835399||Kettle plastic 2,5 L|1174|||||EUR
+|5902934831116||Kettle glass 1,7 L - temp. control|2711|||||EUR
+|5902934830928||Kettle plastic 1,7 L|2141|||||EUR
+|5908256839328||Kettle plastic 0,6 L - travel|956|||||EUR
+|5902934831093||Kettle plastic 1,0 L|2631|||||EUR
+|5902934830911||Kettle metal 1,0 L|1495|||||EUR
+|5902934830973||Kettle glass electric 1,7L|0|||||EUR
+|5902934830966||Kettle glass electric 1,7L|1714|||||EUR
+|5902934831222||Kettle plastic 1,7 L|1296|||||EUR
+|5902934831239||Kettle plastic 1,7 L|1769|||||EUR
+|5902934831512||Kettle plastic 0,6 L - silicon travel|9988|||||EUR
+|5903887803199||Kettle glass 1,5L STRIX|627|||||EUR
+|5902934833394||Kettle glass electric 1,0L|2478|||||EUR
+|5902934833417||Kettle glass electric 1,0L|4029|||||EUR
+|5903887804592||Kettle glass 1,7 l - with temp. control|0|||||EUR
+|5902934839266||SS satin black kettle 1,7L with LCD display & temperature regulation|1591|||||EUR
+|5902934838849||SS champion gold kettle 1,7L with LCD display & temperature regulation|232|||||EUR
+|5905575902948||SS satin grey kettle 1,7L with LCD display & temperature regulation|1923|||||EUR
+|5902934839242||SS satin white kettle 1,7L with LCD display & temperature regulation|837|||||EUR
+|5903887804615||Kettle glass 1,5 l - with temp. control  and  tea infuser|512|||||EUR
+|5905575905956||Ceramic electric kettle  1,0L|1255|||||EUR
+|5905575907806||Electric kettle glass with LED display & temperature regulation 1,7L|1051|||||EUR
+|5905575907783||Electric kettle glass with LED display & temperature regulation 1,7L|0|||||EUR
+|5905575907882||Electric kettle glass with LED display & temperature regulation 1,7L|673|||||EUR
+|5905575907868||Electric kettle glass with LED display & temperature regulation 1,7L|478|||||EUR
+|5905575907844||Electric kettle glass with LED display & temperature regulation 1,7L|1471|||||EUR
+|5905575907820||Electric kettle glass with LED display & temperature regulation 1,7L|238|||||EUR
+|5903887805247||Electric kettle 1,7L with LCD display & temperature regulation|1116|||||EUR
+|5903887805094||Kettle metal 1,7 L STRIX|961|||||EUR
+|5903887805018||Kettle metal 1,5 L STRIX|176|||||EUR
+|5903887805056||Kettle metal 1,5 L STRIX|0|||||EUR
+|5903887805032||Kettle metal 1,5 L STRIX|228|||||EUR
+|5903887804998||Kettle metal 1,5 L STRIX|255|||||EUR
+|5903887807449||Electric kettle  with LED display & temperature regulation 1,7L STRIX|675|||||EUR
+|5903887807425||Electric kettle  with LED display & temperature regulation 1,7L STRIX|491|||||EUR
+|5903887808644||Electric kettle with a thermometer 1,7L STRIX|586|||||EUR
+|5903887808620||Electric kettle with a thermometer 1,7L STRIX|499|||||EUR
+|5903887808682||Kettle metal 1,7 L STRIX|0|||||EUR
+|5903887808668||Kettle metal 1,7 L STRIX|1385|||||EUR
+|5905575902535||Electric kettle with long spout 1,0 l|2956|||||EUR
+|5905575903389||Electric kettle  with LED display & temperature regulation 1,7L|0|||||EUR
+|5903887806459||Kettle plastic 0,6 L - silicon travel UK plug|2125|||||EUR
+|5903887809184||Kettle plastic 0,8 L|1875|||||EUR
+|5903887809207||Kettle plastic 0,8 L|3895|||||EUR
+|5903887809689||Electric kettle 0,6L|5248|||||EUR
+|5903887809665||Electric kettle 0,6L|1663|||||EUR
+|5905575901613||Kettle plastic 1,0 L|2353|||||EUR
+|5905575906779||Silicon Kettle  0,6 L -  travel|659|||||EUR
+|5905575906793||Silicon Kettle  0,6 L -  travel|832|||||EUR
+|5905575908032||Electric Kettle plastic - travel 0,5l|2791|||||EUR
+|5905575904102||Wireless speaker with radio|1225|||||EUR
+|5905575904126||Bluetooth speaker|1515|||||EUR
+|5905575905499||PLL AM/FM Digital Radio|67|||||EUR
+|5905575905536||Digital radio PLL AM/FM|1640|||||EUR
+|5905575905512||Digital Radio - PLL AM/FM|1069|||||EUR
+|5905575904546||AM / FM Radio AD 1909|0|||||EUR
+|5905575906342||Construction radio with Bluetooth|1166|||||EUR
+|5905575906472||Waterproof universal radio AD 1912|599|||||EUR
+|5905575907578||AD 1914 Turntable|908|||||EUR
+|5905575907592||AD 1914 Turntable|835|||||EUR
+|5905575907615||Turntable with USB|723|||||EUR
+|5908256839649||Hair styler - 1200W - 6 attachments + travel pouch|990|||||EUR
+|5905575901637||Hair styler - 1200W - 2 attachments|902|||||EUR
+|5905575901651||Hair styler 5 in 1 - 1200W - 5 attachments|2235|||||EUR
+|5908256832527||Hair straightener 2 in 1 - ceramic|0|||||EUR
+|5908256832534||Curling iron - 19mm|311|||||EUR
+|5908256832541||Curling iron - 25mm|821|||||EUR
+|5902934831376||Curling iron - 32mm|1830|||||EUR
+|5902934836210||Curling iron with comb - 26mm|83|||||EUR
+|5902934838931||Curling iron with LCD - 25mm|206|||||EUR
+|5902934838955||Curling iron - 25mm|0|||||EUR
+|5902934839037||Curling iron - 19mm - temp. control|0|||||EUR
+|5903887808262||Curling iron - 25mm - temp. control|241|||||EUR
+|5903887808286||Curling iron - 32mm - temp. control|2784|||||EUR
+|5905575906595||Conical curling iron|1884|||||EUR
+|5905575906977||Cordless curling iron - USB|1805|||||EUR
+|5902934830577||Roller set for AD 2155|841|||||EUR
+|5908256835818||Mirror LED|600|||||EUR
+|5902934830294||Foot massager|1018|||||EUR
+|5902934832182||LED Bathroom Mirror|2360|||||EUR
+|5902934838276||Heads for sonic toothbrush AD 2175|592|||||EUR
+|5903887800273||Travel Oral Irigator|0|||||EUR
+|5903887801768||Foot Massager|860|||||EUR
+|5903887808057||Facial cleansing brush|1580|||||EUR
+|5905575901019||5 in 1 Electric nail drill|746|||||EUR
+|5905575902863||2-in-1 Water Flossing Sonic Brush|351|||||EUR
+|5905575902887||2-in-1 Water Flossing Sonic Brush|324|||||EUR
+|5905575904836||Electric nail drill – set 11 in 1|2180|||||EUR
+|5908256830288||Hair dryer 1200 W|763|||||EUR
+|5908256838680||Hair dryer 2000W ION, diffuser, AC motor|1106|||||EUR
+|5902934830300||Hair dryer 1400 W|346|||||EUR
+|5903887801706||ION HAIR DRYER - 2200W + diffuser|2943|||||EUR
+|5902934831062||ION HAIR DRYER - 2200W + diffuser|146|||||EUR
+|5902934831321||Hair dryer 1400 W|1218|||||EUR
+|5902934833226||Hair dryer for hotel and swimming pool|2458|||||EUR
+|5903887802246||Hair dryer 1200W|1131|||||EUR
+|5903887802260||Hair dryer 1600W|1884|||||EUR
+|5903887802307||Hair dryer 1800W|3763|||||EUR
+|5903887802345||Hair dryer 1200W|2368|||||EUR
+|5903887802321||Hair dryer 1200W|1093|||||EUR
+|5903887803021||Hair dryer - rubber housing - 2100W + diffuser|0|||||EUR
+|5905575901965||SUPERSPEED Hair dryer|263|||||EUR
+|5905575901941||SUPERSPEED Hair dryer|235|||||EUR
+|5905575902085||SUPERSPEED hair dryer - Brushless motor 110,000 RPM|536|||||EUR
+|5905575901422||SUPERSPEED - Hair Dryer|135|||||EUR
+|5905575903648||Hair dryer with retractable power cord - 2400W + diffuser|3916|||||EUR
+|5905575904201||Hair dryer - 1400W|1227|||||EUR
+|5905575904249||Hair dryer|1396|||||EUR
+|5905575904225||Hair dryer|1502|||||EUR
+|5905575906755||Hair dryer with retractable power cord - 2400W + diffuser|2644|||||EUR
+|5905575908018||Hair Dryer - Wall-Mount|2789|||||EUR
+|5902934831352||Hair straightener - ceramic|1178|||||EUR
+|5902934831345||Infrared Hair Straightener  - with temp. control|3469|||||EUR
+|5903887805117||Hair straightener - ceramic /w temp. control|1584|||||EUR
+|5903887808309||Hair brush|1353|||||EUR
+|5905575902733||Hair straightener - wide (/w temp. control)|1347|||||EUR
+|5905575903600||Professional Airflow styler|892|||||EUR
+|5905575907493||Cordless hair straightener – USB|1388|||||EUR
+|5905575907479||Cordless hair straightener – USB|1331|||||EUR
+|5908256838468||Hair clipper|2037|||||EUR
+|5908256833630||Hair clipper + trimmer|1089|||||EUR
+|5908256836150||Hair clipper for pets - USB|700|||||EUR
+|5908256838604||Hair clipper|2461|||||EUR
+|5902934830423||Hair clipper|1257|||||EUR
+|5902934832748||Hair clippers head to AD 2827|409|||||EUR
+|5903887802383||Proffesional Hair clipper|1485|||||EUR
+|5903887803120||Blade for AD2831|326|||||EUR
+|5902934833783||Hair Clipper|1392|||||EUR
+|5902934834520||Blade for AD 2832|140|||||EUR
+|5903887802369||Hair Clipper LCD|1218|||||EUR
+|5903887803144||Head For AD 2834|414|||||EUR
+|5903887805544||Trimmer professional - USB|703|||||EUR
+|5903887805520||Trimmer professional - USB|665|||||EUR
+|5903887805568||Blade for AD 2836 Gold and AD 2836 Silver|0|||||EUR
+|5905575901750||Hair clipper LED - USB-c|846|||||EUR
+|5905575904812||Shaver for men|1379|||||EUR
+|5908256833135||Trimmer|2754|||||EUR
+|5902934830997||Beard Trimmer - USB charging|0|||||EUR
+|5902934832120||Shaver - USB charging|0|||||EUR
+|5902934834490||Foil for shaver AD2923|0|||||EUR
+|5902934838399||Men shaver|0|||||EUR
+|5902934838412||Head for AD 2928|97|||||EUR
+|5903887805650||Electric shaver AD 2933 3 heads|86|||||EUR
+|5903887805674||Dualtrack Head For AD 2933|268|||||EUR
+|5903887805841||Eyebrow trimmer|2017|||||EUR
+|5903887805827||Eyebrow trimmer|820|||||EUR
+|5903887807067||Travel Shaver - USB 2 heads|510|||||EUR
+|5903887807128||Head for AD 2936|0|||||EUR
+|5903887807081||Travel Shaver - USB 2 heads|1902|||||EUR
+|5903887807142||Head for AD 2937|65|||||EUR
+|5903887807401||Laddy trimmer|2734|||||EUR
+|5903887807913||Heaed for AD 2940|437|||||EUR
+|5903887808033||Lady shaver|289|||||EUR
+|5903887808484||Replacement foil for AD 2941|225|||||EUR
+|5905575901477||Grooming 5 in 1 set - LED - USB-c|1855|||||EUR
+|5905575901774||Grooming 6 in 1 set - LED - USB-c|691|||||EUR
+|5905575901675||Electric shaver with beard trimmer - LED - USB - IPX7|2322|||||EUR
+|5905575901989||5in1 Men’s grooming kit|0|||||EUR
+|5901436590279||Sandwich maker|1768|||||EUR
+|5908256832503||Sandwich maker|1852|||||EUR
+|5902934830041||Waffle maker 1300 W|3600|||||EUR
+|5902934830256||Wafer maker/cone maker|1065|||||EUR
+|5902934831024||Nut Maker (24 pcs) XL|2005|||||EUR
+|5905575900081||Nut Maker (24 pcs) XL|0|||||EUR
+|5902934832168||Multifunctional Baking Device 5in1|4140|||||EUR
+|5902934835459||Sandwich maker. USA Size XXL|1805|||||EUR
+|5903887802970||Waffle maker|3971|||||EUR
+|5902934839310||Electric grill XL|1166|||||EUR
+|5903887801959||Electric grill|1317|||||EUR
+|5903887802031||Sandwich Maker|2243|||||EUR
+|5903887807043||Crepe maker|1969|||||EUR
+|5903887807937||Electric grill LED 2in1|703|||||EUR
+|5905575900357||Waffle bowl maker|2362|||||EUR
+|5905575901408||Multifunctional device - toasting, baking, grilling ( Double-sided)|1327|||||EUR
+|5905575902573||Electric grill|720|||||EUR
+|5905575902719||Sandwich Maker|534|||||EUR
+|5905575902924||Sandwich maker 2 in 1|625|||||EUR
+|5905575902559||Sandwich maker 2 in 1|613|||||EUR
+|5905575902528||Nut Cookie Maker (12 pcs)|2246|||||EUR
+|5905575902474||Electric grill|1710|||||EUR
+|5905575903112||Sandwich maker 2 in 1|1301|||||EUR
+|5905575904959||Donut maker  - 7 donuts|5150|||||EUR
+|5905575904935||Sandwich maker|2310|||||EUR
+|5905575903624||Sandwich maker|1594|||||EUR
+|5905575904973||Waffle maker 1800 W|963|||||EUR
+|5905575906410||Waffle maker|2642|||||EUR
+|5905575907639||Waffle Maker with LED Display|1840|||||EUR
+|5901436590286||Waffle maker 700 W|959|||||EUR
+|5901436590132||Kitchen scale with a bowl 1,8L|2099|||||EUR
+|5908256839434||Kitchen scale with a bowl|83|||||EUR
+|5907633494587||Kitchen scale with a bowl|1864|||||EUR
+|5908256833722||Kitchen scale|0|||||EUR
+|5908256839168||Kitchen scale|992|||||EUR
+|5908256832268||Kitchen scale|1338|||||EUR
+|5902934830874||Precision scale - 0.1 gram|1100|||||EUR
+|5902934830881||Precision scale - 0.1 gram|583|||||EUR
+|5902934834704||Kitchen scale with a bowl|2133|||||EUR
+|5902934837262||Precision scale|1145|||||EUR
+|5903887801577||Kitchen scale - up to 15kg - big size|1167|||||EUR
+|5903887801591||Kitchen scale - up to 10kg|911|||||EUR
+|5903887804738||Kitchen scale - up to 10kg - LED|1894|||||EUR
+|5903887804714||Kitchen scale - up to 10kg - LED|1518|||||EUR
+|5903887807180||Precision scale|1512|||||EUR
+|5903887808583||Kitchen scale 10kg USB charged|1114|||||EUR
+|5903887808606||Kitchen scale 10kg USB charged|117|||||EUR
+|5903887809702||Kitchen scale with a measuring cup|1924|||||EUR
+|5905575904287||Kitchen scale LCD - 10 kg|596|||||EUR
+|5905575904324||Kitchen scale|0|||||EUR
+|5905575904348||Kitchen scale|149|||||EUR
+|5905575904300||Kitchen scale|42|||||EUR
+|5905575906205||Kitchen scale - 5kg|998|||||EUR
+|5905575906182||Kitchen scale - 5kg|1564|||||EUR
+|5903887802154||Toaster|3446|||||EUR
+|5902934838238||Toaster 2 slice|929|||||EUR
+|5903887802178||Toaster with bun grid|1085|||||EUR
+|5903887805179||Toaster 2 slices|327|||||EUR
+|5903887801157||Citrus juicer|307|||||EUR
+|5903887805131||Citrus juicer|1802|||||EUR
+|5905575904560||Citrus juicer|2042|||||EUR
+|5908256835207||Blender|0|||||EUR
+|5908256839007||Blender|0|||||EUR
+|5902934832243||Blender - Glass jar 1,5L|416|||||EUR
+|5902934834582||Jar for AD4076 / CR4077|36|||||EUR
+|5902934835763||Blender|765|||||EUR
+|5902934838214||Cup for blender|43|||||EUR
+|5903887801409||Personal blender with cooling stick|1990|||||EUR
+|5903887803274||Chopper with the glass bowl|1809|||||EUR
+|5905575905017||Blender Smoothie Set|250|||||EUR
+|5903887809863||Blender - jar 1,5L plastic|1877|||||EUR
+|5903887809887||Jug for blender AD4085|32|||||EUR
+|5903887809023||Juice extractor - 1000W|980|||||EUR
+|5903887809047||Juice extractor - 1000W|1049|||||EUR
+|5905575900517||Juice extractor - 1000W|295|||||EUR
+|5905575900975||Slow Juicer 4130|207|||||EUR
+|5905575900999||Slow-speed juicer 3in1 - Meat mincer, Juicer, Vegetable grater|631|||||EUR
+|5905575902061||Juice extractor 600W - titanium blades|1194|||||EUR
+|5908256831216||Mixer|581|||||EUR
+|5908256831223||Mixer with a bowl|1123|||||EUR
+|5908256831537||Mixer|1761|||||EUR
+|5908256836594||Mixer|1724|||||EUR
+|5908256831544||Mixer with a bowl|2109|||||EUR
+|5908256835375||Mixer with blending shaft|2695|||||EUR
+|5902934834278||Planetary food processor 1000W|501|||||EUR
+|5903887803953||Planetary food processor 2200W 7L|30|||||EUR
+|5903887803014||LCD food processor 12in1|644|||||EUR
+|5903887802994||Hand Mixer INOX|638|||||EUR
+|5903887804844||Planetary food processor 1200W|0|||||EUR
+|5905575905994||Hand mixer|1003|||||EUR
+|5905575905970||Hand mixer with a pull-out tray for accessories|1175|||||EUR
+|5905575907516||Hand mixer – TURBO POWER|2185|||||EUR
+|5905575901453||Burr coffee grinder|1705|||||EUR
+|5902934830553||Espresso machine - 15 bar|225|||||EUR
+|5902934830454||Coffee maker 0,7 L|2641|||||EUR
+|5905575901491||Espresso coffee maker|0|||||EUR
+|5905575901538||Espresso coffee maker|1221|||||EUR
+|5905575901552||Espresso coffee maker|0|||||EUR
+|5905575901576||Espresso coffee maker|1412|||||EUR
+|5905575907196||Espresso coffee maker|1909|||||EUR
+|5901436590309||Coffee grinder|2657|||||EUR
+|5903887800464||Coffee Mill|930|||||EUR
+|5903887800433||Coffee Mill|2692|||||EUR
+|5903887800440||Coffee Mill|2887|||||EUR
+|5903887800457||Coffee Mill|3645|||||EUR
+|5903887806169||Burr coffee grinder|880|||||EUR
+|5903887809764||Electric Salt and Pepper Grinder - Set - 3 grinders - USB|558|||||EUR
+|5903887809788||Electric Salt and Pepper Grinder - Set - 3 grinders - USB|888|||||EUR
+|5903887809801||Salt and Pepper Grinder|0|||||EUR
+|5903887809900||Salt and Pepper Grinder|0|||||EUR
+|5903887803236||Burr coffee grinder|936|||||EUR
+|5908256835412||Egg boiler for 7 eggs|1366|||||EUR
+|5908256838697||Electric lunchbox - 1.1L|209|||||EUR
+|5908256838703||Electric lunchbox - 1L|817|||||EUR
+|5908256839472||Yogurt Maker +7 glass jars|0|||||EUR
+|5908256839533||Milk frother - heater|659|||||EUR
+|5908256839557||Popcorn maker|353|||||EUR
+|5902934831451||Egg boiler for 8 eggs|1344|||||EUR
+|5902934839082||Chocolate Fountain|1290|||||EUR
+|5902934839112||Knife sharpener AD 4489|744|||||EUR
+|5902934839723||Electric wine opener|619|||||EUR
+|5903887801034||Milk frother|413|||||EUR
+|5905575901255||Milk frother black - frothing and heating (latte and cappucino)|1201|||||EUR
+|5905575901279||Milk frother dark - frothing and heating (latte and cappucino)|818|||||EUR
+|5903887809726||Milk frother white - frothing and heating (latte and cappucino)|944|||||EUR
+|5903887809740||Milk frother - frothing and heating (latte and cappucino)|709|||||EUR
+|5903887801843||Electric pasteurization pot 28L|471|||||EUR
+|5903887803625||Milk frother - frothing and heating|447|||||EUR
+|5903887806053||Milk frother with a stand|2442|||||EUR
+|5903887806077||Milk frother with a stand|4409|||||EUR
+|5903887808071||Vacuum sealer|0|||||EUR
+|5905575900395||Electric lunch box|605|||||EUR
+|5905575900371||Electric lunch box|1085|||||EUR
+|5905575900791||Thermal flask LED 473ml black|2026|||||EUR
+|5905575900838||Thermal flask LED 473ml blue|3534|||||EUR
+|5905575900814||Thermal flask LED 473ml pink|2880|||||EUR
+|5905575900777||Thermal flask LED 473ml white|3451|||||EUR
+|5905575902368||Electric Knife Sharpener|516|||||EUR
+|5905575902900||Electric Wine Opener – set|1937|||||EUR
+|5905575903365||Popcorn machine|410|||||EUR
+|5905575903341||Electric knife|686|||||EUR
+|5905575906038||Food vacuum air extracting set|1344|||||EUR
+|5905575906052||Vacuum bags set|929|||||EUR
+|5905575906076||Vacuum bags set|448|||||EUR
+|5905575906090||Food vacuum air extracting set|1041|||||EUR
+|5905575905871||Knife sharpener electric|1378|||||EUR
+|5905575906878||Electric lunch box with 5 litres thermal bag|1413|||||EUR
+|5905575906892||Electric lunch box with thermal bag 5 litres|1449|||||EUR
+|5905575906915||Electric lunch box with thermal bag 5 litres|1462|||||EUR
+|5905575906953||Thermal bag - 10 L|1193|||||EUR
+|5902934831291||Hand Blender|2590|||||EUR
+|5908256839816||Hand blender|2010|||||EUR
+|5903887801898||Hand blender|0|||||EUR
+|5903887800051||Hand blender - set|4283|||||EUR
+|5902934833448||Blender hand|3542|||||EUR
+|5902934839013||Hand blender|3005|||||EUR
+|5902934838993||Hand blender|3375|||||EUR
+|5905575901712||Hand blender set|0|||||EUR
+|5905575902047||Hand Blender with Turbo Function and Ice Crushing|1198|||||EUR
+|5903887804561||Food Slicer AD 4703|652|||||EUR
+|5908256832060||Meat mincer|43|||||EUR
+|5902934830232||Meat mincer|1501|||||EUR
+|5902934838207||Meat mincer|915|||||EUR
+|5903887803991||Meat mincer #5 with a shredder|638|||||EUR
+|5905575900692||Vegetable slicer AD 4815|0|||||EUR
+|5908256832299||Iron travel 700 W|4421|||||EUR
+|5908256833364||Iron non-stick soleplate 1600 W|999|||||EUR
+|5908256834293||Iron steel soleplate  Max power 3000 W|1455|||||EUR
+|5902934831048||Iron ceramic soleplate 3000 W|1729|||||EUR
+|5902934833776||Iron ceramic 3000 W|2129|||||EUR
+|5905575905673||Garment steamer|742|||||EUR
+|5905575906281||Cordless Steam Iron|2047|||||EUR
+|5905575906304||2 in 1 Garment steamer & iron|1891|||||EUR
+|5908256839755||Bread maker - 15 Programs|407|||||EUR
+|5905575900722||Electric oven 26L|232|||||EUR
+|5905575902023||Electric oven 22L|267|||||EUR
+|5905575906632||Electric oven 35L|513|||||EUR
+|5905575906649||Electric oven 48L|247|||||EUR
+|5905575906656||Electric oven 48L|270|||||EUR
+|5905575906663||Electric oven 60L|133|||||EUR
+|5905575908094||Electric oven 14L|1250|||||EUR
+|5903887801218||Oven microwave 20 L|1669|||||EUR
+|5905575904591||Oven microwave 20 L|0|||||EUR
+|5903887803168||Airfryer Oven 8in1 13 Liters|1680|||||EUR
+|5903887803250||Airfryer 3,0 L|4925|||||EUR
+|5905575904621||Airfryer Oven 2,5 liters|2218|||||EUR
+|5905575904065||Electric pizza oven|352|||||EUR
+|5905575906328||Dual Air Fryer Oven|0|||||EUR
+|5905575907233||Air Fryer Oven with glass bowl 3L|1026|||||EUR
+|5906843080146||Air Fryer Oven 12 programs 5,5 liters|899|||||EUR
+|5906843080153||"Air Fryer 8.0 L | 9 Preset Programs | Convection Technology | LED Display |"|0|||||EUR
+|5901436590316||Steam cooker|87|||||EUR
+|5908256835696||Rice cooker - capacity 1.5L|1792|||||EUR
+|5903887809528||Slow cooker 5,8L|0|||||EUR
+|5905575901354||Slow cooker 5,8L|0|||||EUR
+|5903887804066||Sous vide Slow Cooker|15|||||EUR
+|5905575901798||Rice cooker|1084|||||EUR
+|5905575902450||Multi-cooker 6 in 1 - 3,25 L|1254|||||EUR
+|5905575904584||2-in-1 breakfast station|1545|||||EUR
+|5908256834460||Hot Plate|5799|||||EUR
+|5908256834477||Hot Plate|0|||||EUR
+|5902934838856||Cooker induction|1897|||||EUR
+|5908256831674||Grill electric with removable heater|289|||||EUR
+|5902934836982||Electric Grill|773|||||EUR
+|5903887807623||Electric table grill 3000W|373|||||EUR
+|5903887807647||Electric table grill 3000W|0|||||EUR
+|5903887809962||Raclette - electric grill|0|||||EUR
+|5903887805582||Food Dehydrator|1591|||||EUR
+|5905575905598||Food dehydrator|957|||||EUR
+|5905575902146||Grill Utensil Set - Stainless Steel with Carrying Case|0|||||EUR
+|5905575902160||Grill cutlery – set|0|||||EUR
+|5905575902184||Grill Utensil Set – In an Aluminum Case|0|||||EUR
+|5905575902207||Grill cutlery – set|30|||||EUR
+|5908256833487||Vacuum cleaner/Bag set for AD 7011|242|||||EUR
+|5902934830560||Rotable mop/Map Refill for AD 7018|2723|||||EUR
+|5902934831178||Handheld Vacuum - 1,5L dust cont.|1843|||||EUR
+|5902934831420||Set of 5 EPA F8 filters for vacuum cleaner AD 7036|465|||||EUR
+|5905575905932||Handheld Vacuum - 1,5L dust cont.|1939|||||EUR
+|5903887803588||Steam Cleaner|0|||||EUR
+|5903887803847||Spare mop pad sets for AD7038.1|98|||||EUR
+|5905575904898||Spare cloths 5x small cloth|469|||||EUR
+|5905575904911||Spare cloths 5x large cloth|447|||||EUR
+|5902934836791||Vacuum cleaner/filter for AD 7040|350|||||EUR
+|5902934835282||Super silent vacuum cleaner|0|||||EUR
+|5902934836159||Filter Set for Vacuum AD 7041|313|||||EUR
+|5902934837088||Handheld bagless vacuum cleaner|680|||||EUR
+|5902934838191||Filter HEPA H11  for AD 7044, AD 7048|1121|||||EUR
+|5903887800198||Battery|267|||||EUR
+|5903887809580||Bagless vacuum cleaner with brushless motor technology|2131|||||EUR
+|5903887809603||Battery|145|||||EUR
+|5903887809924||2-in-1 handheld bagless vacuum cleaner|1249|||||EUR
+|5903887809948||HEPA 11 filter 4 piece set for AD 7049|0|||||EUR
+|5905575900241||Steam Cleaner|3034|||||EUR
+|5905575900265||Replacement cloths AD 7050.1|167|||||EUR
+|5905575901293||Cordless Vacuum cleaner|3250|||||EUR
+|5905575901316||Batery AD 7051.1|185|||||EUR
+|5905575901330||Filter set AD 7051.2|0|||||EUR
+|5905575902696||Rotary steam mop|2507|||||EUR
+|5905575902962||Round steam mop inserts and a small fabric cover AD 7052|1084|||||EUR
+|5905575905031||Bag vacuum cleaner allergy-friendly Classic AD 7054|797|||||EUR
+|Nonead_7054.1||Spare filter for Ad 7054|179|||||EUR
+|5905575905710||Steam mop|1209|||||EUR
+|5905575905734||AD 7057 mop insert|225|||||EUR
+|5905575905574||Car vacuum cleaner - USB C / 12 V|1667|||||EUR
+|5905575905093||Allergy-friendly Cordless upright vacuum PRO|1477|||||EUR
+|5905575905116||Spare filter for AD 7061|116|||||EUR
+|5905575905918||Spare battery AD 7061|153|||||EUR
+|5905575905130||2in1 Dry & Wet hard flood carry cordless Vacuum Cleaner|0|||||EUR
+|5905575905154||EPA 12 filter for AD 7064|299|||||EUR
+|5905575905178||Mop Pads for Vacuum Cleaner with Mopping Function – Set of 2|199|||||EUR
+|5905575905635||Bagless cyclone vacuum cleaner|927|||||EUR
+|5905575905659||Vacuum cleaner filter set for AD 7065|164|||||EUR
+|5905575906168||TURBO brush|0|||||EUR
+|5905575907011||Steam mop|1057|||||EUR
+|5905575907158||Mop Pads AD 7068.1|276|||||EUR
+|5905575907035||Digitally controlled vacuum cleaner with bag|1076|||||EUR
+|5905575907059||AD 7069.1 Reusable fabric bag|13|||||EUR
+|5905575907073||AD 7069.2 Filter Set|86|||||EUR
+|5905575907097||Mini turbo brush AD7069.3|41|||||EUR
+|5905575907110||Parquet brush with natural bristles AD 7069.4|39|||||EUR
+|5905575907134||Large turbo brush AD 7069.5|42|||||EUR
+|5905575908308||Universal steam mop 2in1|1278|||||EUR
+|5905575908322||Spare mop covers AD 7072.1 2 pieces|288|||||EUR
+|5901436590866||Fan 15 cm - desk|0|||||EUR
+|5908256830769||Fan 23 cm - desk|0|||||EUR
+|5908256830776||Fan 30 cm - desk|0|||||EUR
+|5908256830783||Fan 40 cm - desk|0|||||EUR
+|5908256830790||Fan 40 cm - stand|0|||||EUR
+|5902934830270||Fan 15 cm with clip and base|3739|||||EUR
+|5902934839570||Fan 40 cm - stand|0|||||EUR
+|5902934839556||Fan 40 cm - stand|0|||||EUR
+|5903887803960||"Loft Fan 17.5cm / 6.6"""|0|||||EUR
+|5903887804134||"Desk Loft fan 15cm / 6"""|0|||||EUR
+|5903887804158||"Fan 40cm/16"" - stand with remote control"|0|||||EUR
+|5903887804103||Portable Mini Fan 9cm/3,5” USB|0|||||EUR
+|5903887804080||Portable Mini Fan 9cm/3,5” USB|0|||||EUR
+|5903887805230||Fan Tower 109cm / 43”|0|||||EUR
+|5905575908148||Foldable mini fan|1588|||||EUR
+|5905575908186||Mini USB fan|2954|||||EUR
+|5907633494792||Electric heating pad - grey color|142|||||EUR
+|5903887801782||Blanket heating - pad|505|||||EUR
+|5902934830706||Blanket heating - pad|94|||||EUR
+|5902934832816||Electirc heating under-blanket (1)|0|||||EUR
+|5902934832540||Electirc heating under-blanket (2)|153|||||EUR
+|5902934833967||Electric Hot water bottle warmer|7681|||||EUR
+|5902934837293||Feet warmer with LCD controller|0|||||EUR
+|5903887801805||Blanket heating - pad|0|||||EUR
+|5905575900227||Heating belt on the loins|394|||||EUR
+|5905575901095||Electric hot water bottle|348|||||EUR
+|5908256831827||Heater fan - ceramic|0|||||EUR
+|5908256839861||Heater quartz|0|||||EUR
+|5902934831727||Heater air curtain|2174|||||EUR
+|5903887801324||Heater fan|5409|||||EUR
+|5903887801300||Heater fan|2521|||||EUR
+|5903887805889||Thermofan  - Easy Heater|0|||||EUR
+|5903887805865||Ceramic Heater LCD with remote control|457|||||EUR
+|5903887801461||Thermo fan heater|0|||||EUR
+|5903887806183||"Tower fan heater LCD with humidifier 75cm / 29"""|185|||||EUR
+|5903887801423||Ceramic fan heat tower LCD + Remote control + Timer|0|||||EUR
+|5903887807340||Tower fan ceramic heater  LED + Timer|0|||||EUR
+|5903887806961||Ceramic fan heater 3000W|501|||||EUR
+|5903887806831||Ceramic fan heater 1500W|1590|||||EUR
+|5905575900029||Ceramic fan heater|1781|||||EUR
+|5905575900005||Thermofan  - Easy Heater|0|||||EUR
+|5905575900418||Convector heater|613|||||EUR
+|5905575903266||LED air curtain|4374|||||EUR
+|5905575903860||Convection fan heater LCD with remote control|796|||||EUR
+|5903887805902||Oil-filled radiator 7 ribs|0|||||EUR
+|5903887805919||Oil-filled radiator 9 ribs|0|||||EUR
+|5903887805926||Oil-filled radiator 11 ribs|0|||||EUR
+|5903887805988||Oil-filled radiator 13 ribs|0|||||EUR
+|5903887805933||Oil-filled radiator 15 ribs|0|||||EUR
+|5903887809641||Foldable electric clothes drying rack|1140|||||EUR
+|5905575903181||LED electric bathroom radiator|910|||||EUR
+|5905575903198||LED electric bathroom radiator|874|||||EUR
+|5905575903204||Oil-filled LED radiator with remote control 13 ribs|0|||||EUR
+|5903887803977||Air conditioner 7000BTU|0|||||EUR
+|5903887804585||Tower Air Cooler 2L 3in1|0|||||EUR
+|5903887804172||"Fan Tower 96cm / 38"""|0|||||EUR
+|5903887805223||Tower Air cooler 3 in 1|0|||||EUR
+|5903887808507||Thermo-electric dehumidifier|0|||||EUR
+|5903887809498||Compressor air dehumidifier 10L/24h LCD|1510|||||EUR
+|5903887809504||Air filter for AD7861|164|||||EUR
+|5905575904041||2-in1 Air Dehumidifier & Air purifier LED (compressor)|266|||||EUR
+|5905575904447||HEPA air filter|0|||||EUR
+|5905575904461||Activated carbon air filter|0|||||EUR
+|5905575904485||PP air filter|0|||||EUR
+|5905575907653||Industrial compressor air dehumidifier 50L - 24h|473|||||EUR
+|5902934831192||Air conditioner 7000 BTU|0|||||EUR
+|5902934835022||Air cooler 3in1 12L|0|||||EUR
+|5902934835046||Air cooler 7L 3 in 1 with remote controller|0|||||EUR
+|5902934835497||Air conditioner 9000 BTU|0|||||EUR
+|5902934838665||Air Dehumidifier (compressor)|571|||||EUR
+|5902934839358||Air Cooler 3in1 USB/4xAA 1,5V|0|||||EUR
+|5902934839334||Air cooler 3 in 1|0|||||EUR
+|5902934839396||Air cooler 3 in 1|0|||||EUR
+|5902934839389||Air conditioner 5000 BTU|0|||||EUR
+|5902934839488||Air conditioner 12.000 BTU|0|||||EUR
+|5903887806909||Mosquito killer lamp UV|0|||||EUR
+|5905575906670||Insects killer lamp LED|1986|||||EUR
+|5908256834156||Air humidifier|0|||||EUR
+|5902934830898||Air humidifier|0|||||EUR
+|5902934830621||Hepa filter for AD 7961|630|||||EUR
+|5902934836012||Filter for air humidifier AD7963|87|||||EUR
+|5903887801850||Air Humidifier|0|||||EUR
+|5903887809290||Ultrasonic aroma diffuser 3in1|905|||||EUR
+|5903887809337||USB 3in1 ultrasonic aroma diffuser|2140|||||EUR
+|5903887809313||USB 3in1 ultrasonic aroma diffuser|3013|||||EUR
+|5905575900425||Ultrasonic Humidifier|613|||||EUR
+|5905575900449||Ultrasonic Humidifier|310|||||EUR
+|5905575900593||Air humidifier filter|261|||||EUR
+|5908256835788||Washing machine + spinning|0|||||EUR
+|5902934835749||Washing machine + spinning|0|||||EUR
+|5902934839860||Portable cooler 28 L|1001|||||EUR
+|5903887804875||Wine cooler 60L Dual cooling zone|102|||||EUR
+|5903887805193||Portable refrigerator 40L with compressor|267|||||EUR
+|5905575900623||Beverage pantry - 33 L capacity|219|||||EUR
+|5903887809092||Mini fridge - 4L|798|||||EUR
+|5905575901231||Mini fridge - 4L|1119|||||EUR
+|5903887809078||Mini fridge - w/ mirror - 4L|1196|||||EUR
+|5905575900661||Ice Maker|16|||||EUR
+|5905575905611||Thermoelecric cooler AD 8088|0|||||EUR
+|5905575905772||Thermoelecric cooler - 28 L|98|||||EUR
+|5905575906366||Portable cooler 40 L|391|||||EUR
+|5905575906373||Portable cooler 25L|77|||||EUR
+|5905575906380||Portable cooler 40L|0|||||EUR
+|5905575906830||Portable cooler 22L|627|||||EUR
+|5908256830509||Bathroom scale|2007|||||EUR
+|5908256830516||Bathroom scale|2312|||||EUR
+|5908256838352||Baby scale|3473|||||EUR
+|5908256839069||Mechanical bathroom scale|2479|||||EUR
+|5902934838641||Mechanical bathroom scale|1690|||||EUR
+|5902934836135||Bathroom scale with analyzer|738|||||EUR
+|5908256838512||Bathroom scale|0|||||EUR
+|5902934839778||Bathroom scale|1508|||||EUR
+|5902934830850||Bathroom scale|686|||||EUR
+|5902934838702||Bathroom scale with analyzer - 225KG|4035|||||EUR
+|5903887803298||Bathroom scale -  180 kg|305|||||EUR
+|5903887803311||Bathroom scale - 180 kg|1391|||||EUR
+|5903887804189||Bathroom scale - 180kg|579|||||EUR
+|5903887804202||Bathroom scale - 180kg|1440|||||EUR
+|5903887805155||Bathroom bamboo scale|1057|||||EUR
+|5903887804653||Bathroom scale - LED display|3409|||||EUR
+|5903887804691||Bathroom scale - LED display|4102|||||EUR
+|5903887806886||Mechanical bathroom scale|2002|||||EUR
+|5903887806862||Mechanical bathroom scale|339|||||EUR
+|5905575900579||Mechanical bathroom scale|0|||||EUR
+|5903887807562||Mechanical bathroom scale|0|||||EUR
+|5905575902283||Bathroom scale with projector|681|||||EUR
+|5905575902269||Bathroom scale - 180kg - w/ blue backlight of the edges|624|||||EUR
+|5905575903440||Smart bathroom scale - Tuya|1010|||||EUR
+|5905575903426||Smart bathroom scale - Tuya|889|||||EUR
+|5905575903822||Smart bathroom scale|775|||||EUR
+|5905575903846||Smart bathroom scale|756|||||EUR
+|5905575903464||Bathroom scale|596|||||EUR
+|5905575903747||Travel Luggage Scale|651|||||EUR
+|5905575903761||Travel Luggage Scale|424|||||EUR
+|5905575903785||Travel Luggage Scale|0|||||EUR
+|5905575906243||Bathroom scale - 180kg - brushed|1786|||||EUR
+|5902934836296||Lint remover|3626|||||EUR
+|5902934836319||Lint remover|2410|||||EUR
+|5905575900333||Lint remover LCD|665|||||EUR
+|5905575902306||Lint remover LCD|312|||||EUR
+|5905575902320||Lint remover LCD|48|||||EUR
+|5905575905758||Lint remover - USB|1322|||||EUR
+|5905575906717||Lint remover LCD|1010|||||EUR
+|5905575906694||Lint remover LCD|1019|||||EUR
+|5903887807890||Travel shaver 3 in 1|1196|||||EUR
+|5903887807692||20L portable toilet|183|||||EUR
+|5907633494129||Steam mop - pads|1973|||||EUR
+|5908256831896||Turntable with radio|893|||||EUR
+|5902934830775||Head and ceramic needle for CR 1113, CR1168  and CR 1114|1417|||||EUR
+|5902934830782||Cearamic Needle for CR 1113, CR1168  and CR 1114|642|||||EUR
+|5903887801485||Needle for CR 1113, CR1168  and CR 1114 with a ruby tip (Tip)|0|||||EUR
+|5908256837058||Audio/Speaker Bluetooth|75|||||EUR
+|5908256837010||Radio|3303|||||EUR
+|5908256837027||Radio|2861|||||EUR
+|5903887807951||Alarmclock|952|||||EUR
+|5903887807975||Alarmclock|380|||||EUR
+|5902934830355||Radio digital|0|||||EUR
+|5908256838857||Alarmclock radio|300|||||EUR
+|5902934831482||Compact bluetooth radio|32|||||EUR
+|5902934831499||Weather station|0|||||EUR
+|5902934833899||Turntable with Bluetooth/ MP3/ USB/ SD/ recording|482|||||EUR
+|5902934837620||Mini Hi-Fi tower with Bluetooth|1248|||||EUR
+|5902934836814||Bluetooth Headphones|0|||||EUR
+|5902934837026||DAB/DAB+/FM radio|0|||||EUR
+|5902934838368||Internet radio|0|||||EUR
+|5902934839129||Radio Retro|806|||||EUR
+|5902934839143||Bluetooth Radio|2138|||||EUR
+|5903887800099||Retro Radio|861|||||EUR
+|5908256836815||Kettle glass 1,7 L|3005|||||EUR
+|5908256837201||Kettle metal 1,7 L with temp. regul. and color changer|984|||||EUR
+|5902934830935||Kettle plastic 1,7 L|2212|||||EUR
+|5908256839779||Kettle plastic 1,7 L|4540|||||EUR
+|5908256839786||Kettle plastic 1,7 L|2909|||||EUR
+|5908256838475||Boiler 20 L|928|||||EUR
+|5908256839243||Kettle plastic 0,5 L - silicon travel|3498|||||EUR
+|5908256839236||Boiler 8,8 L|954|||||EUR
+|5908256839731||Kettle plastic 1,7 L|0|||||EUR
+|5902934831215||Kettle metal 1,2 L|2488|||||EUR
+|5902934835770||Kettle glass 2,0 l - with temp. control  and  tea infuser|1598|||||EUR
+|5902934838306||Stainless Steel 1,7L kettle with LCD display & temp. regulation|2686|||||EUR
+|5903887803892||Kettle 1,7 L|4181|||||EUR
+|5903887805070||Kettle metal 1,7 L STRIX|767|||||EUR
+|5903887807005||Electric kettle with a thermometer 1,7L|565|||||EUR
+|5903887807029||Electric kettle with a thermometer 1,7L|497|||||EUR
+|5903887806985||Electric kettle with a thermometer 1,7L|168|||||EUR
+|5905575902405||Wireless Speakers - Bluetooth|477|||||EUR
+|5905575903884||Radio FM with Bluetooth|276|||||EUR
+|5905575903907||Radio FM with Bluetooth|673|||||EUR
+|5905575905550||Portable mini radio USB|998|||||EUR
+|5908256839670||Rotating hair dryer brush - 1200W - 38mm, 50mm|3817|||||EUR
+|5902934833806||Hair Styler Set 5-in-1|2796|||||EUR
+|5902934839631||Hair styler|2122|||||EUR
+|5902934830652||Callus remover/Rolls for CR 2156|742|||||EUR
+|5908256836921||Toothbrush set for CR 2158|13859|||||EUR
+|5902934832205||LED Bathroom Mirror|1571|||||EUR
+|5902934837309||Sonic toothbrush - 48.000vpm|22|||||EUR
+|5902934837323||Replacement heads|0|||||EUR
+|5902934837606||Foot massager foldable|1780|||||EUR
+|5902934839785||Hair dryer 2400W + diffuser|565|||||EUR
+|5902934839594||Hair dryer 1200W|2411|||||EUR
+|5902934834728||Hair dryer 2200W + diffuser|913|||||EUR
+|5902934835718||Hair dryer 1400W|0|||||EUR
+|5903887801225||Hair dryer 1200W|2219|||||EUR
+|5905575900630||Hair dryer 1800W ION + Diffuser|347|||||EUR
+|5902934837668||Professional hair straightener - with ION|208|||||EUR
+|5903887804042||Professional hair straightener - ceramic - tourmaline|0|||||EUR
+|5903887803212||Hair crimper|21|||||EUR
+|5908256835085||Hair clipper for pets - USB|0|||||EUR
+|5902934830584||Hair clippers head to Camry CR2821,Adler AD2823, Mesko MS2826|3948|||||EUR
+|5902934834940||Vacuum beard trimmer|1805|||||EUR
+|5903887805483||Premium metallic hair clipper with LCD|1115|||||EUR
+|5903887805469||Premium metallic hair clipper with LCD|53|||||EUR
+|5903887805506||Metal blade for CR 2835 Silver and CR2835 Gold|108|||||EUR
+|5905575901736||Hair clipper LCD|1250|||||EUR
+|5905575902108||Hair clipper CR 2844|1336|||||EUR
+|5905575902122||Blade for CR 2844|0|||||EUR
+|5908256834170||Shaver for men|2242|||||EUR
+|5902934830539||Trimmer 5 in 1|2514|||||EUR
+|5902934835664||Electric Shaver|839|||||EUR
+|5902934839693||Head for CR 2925|0|||||EUR
+|5902934838436||Mens shawer|0|||||EUR
+|5902934838450||Head for CR 2927|171|||||EUR
+|5903887805735||Multi function trimmer set|2324|||||EUR
+|5903887807104||Travel Shaver 2 heads|1787|||||EUR
+|5903887807166||Head for CR 2938|240|||||EUR
+|5908256834002||Sandwich maker|3303|||||EUR
+|5908256834019||Waffle maker 700 W|1460|||||EUR
+|5908256834811||Waffle maker 1000 W|577|||||EUR
+|5908256834873||Sandwich maker XL|1388|||||EUR
+|5908256834897||Waffle maker 1500 W|3768|||||EUR
+|5902934834414||Multifunctional Backing Device 5in1|0|||||EUR
+|5902934835435||Electric Grill|498|||||EUR
+|5902934835602||Waffle maker 1600W|4913|||||EUR
+|5903887801973||Electric  grill|2900|||||EUR
+|5903887801997||Sandwich Maker XL|4397|||||EUR
+|5903887803083||Sandwich maker 6 in 1|889|||||EUR
+|5905575904874||Wafer maker/cone maker|1060|||||EUR
+|5903887805698||Kitchen scale - 15kg - touchless tare - big size|145|||||EUR
+|5902934838320||Toaster 2 slice|1303|||||EUR
+|5903887800150||Toaster 2 slice|2706|||||EUR
+|5903887800136||Toaster 2 slice|1829|||||EUR
+|5902934830287||Profesional Citruis Juicer|0|||||EUR
+|5903887804837||Oil Press|0|||||EUR
+|5908256838864||Blender personal|548|||||EUR
+|5905575901170||Personal blender|25|||||EUR
+|5908256839427||Blender personal - POWERFUL NUTRI|531|||||EUR
+|5902934834391||Blender|798|||||EUR
+|5905575905475||Table blender - titanium blades - 1.5L glass jug|809|||||EUR
+|5905575902634||Blender - 23000rpm - 1,7l jar - 3 programs|922|||||EUR
+|5902934833912||Mixer with a bowl 600W|5812|||||EUR
+|5902934838979||Mixer|2067|||||EUR
+|5903887801935||Hand mixer|3299|||||EUR
+|5903887801911||Hand mixer|3093|||||EUR
+|5903887803076||LCD Planetary food processor 2000W 5L|0|||||EUR
+|5905575907455||Cordless USB Electric Coffee Grinder|1120|||||EUR
+|5902934837644||Pressure coffee machine|0|||||EUR
+|5905575904669||Multi-capsule espresso machine|903|||||EUR
+|5903887805629||Multi-capsule espresso machine|2997|||||EUR
+|5903887809115||Electric Moka pot|2029|||||EUR
+|5903887809139||Electric Moka pot|1470|||||EUR
+|5903887809153||Spare filter and gasket for the Moka CR 4415 coffee maker.|194|||||EUR
+|5902934837484||Conical Burr Coffee grinder|298|||||EUR
+|5908256833890||Chocolate Fountain|397|||||EUR
+|5908256834118||Popcorn maker|860|||||EUR
+|5908256837607||Knife sharpener electric|2903|||||EUR
+|5908256838222||Vacuum sealer|0|||||EUR
+|5908256838307||Vacumm sealer rools for CR 4470 and AD 4484 + MS 4492 + AD 4503|8929|||||EUR
+|5905575901194||Vacumm sealer rools for CR 4470 and AD 4484 + MS 4492 + AD 4503|10816|||||EUR
+|5905575901200||Vacumm sealer rools for CR 4470 and AD 4484 + MS 4492 + AD 4503|9653|||||EUR
+|5908256839564||Popcorn maker|993|||||EUR
+|5908256839885||Ice cream maker - capacity 0,7l|157|||||EUR
+|5902934830461||Electric lunchbox DC12V & AC220-240V|1102|||||EUR
+|5902934838757||Chocolate Fountain|1896|||||EUR
+|5903887803861||Milk frother - frothing and heating|428|||||EUR
+|5903887806121||Milk frother with whisk attachment and a stand|3655|||||EUR
+|5903887809849||Milk frother with whisk attachment and a stand|1991|||||EUR
+|5905575900852||Thermal flask LED 473ml black|750|||||EUR
+|5905575902610||Electric Wine Opener - set|280|||||EUR
+|5905575903402||Electric knife - 2 Sets of Knives|1306|||||EUR
+|5905575903808||Electric lunch box heated - BIG SET - metal container + cutlery set + travel bag|1245|||||EUR
+|5905575905451||Yogurt Maker|211|||||EUR
+|5905575906939||Thermal bag - 5L|1213|||||EUR
+|5902934830515||Blender hand SMOOTHIE|432|||||EUR
+|5903887806145||Hand blender - mini set 2 w 1|57|||||EUR
+|5902934833950||Blender hand 1600W set|853|||||EUR
+|5905575904850||Hand blender - set|1280|||||EUR
+|5908256835177||Food slicer - adjustment (0-15mm)|309|||||EUR
+|5908256830226||Meat mincer|537|||||EUR
+|5903887800341||Meat mincer|180|||||EUR
+|5905575904997||Vegetable slicer CR 4816|566|||||EUR
+|5902934830324||Iron ceramic 3000 W|2022|||||EUR
+|5908256835542||Iron travel 1500W steam|883|||||EUR
+|5908256839373||Iron ceramic soleplate 3000 W|1346|||||EUR
+|5902934835800||Garment Steamer|2647|||||EUR
+|5903887807715||Steam iron  3400W|2688|||||EUR
+|5905575902498||Steam travel iron|1410|||||EUR
+|5903887803267||Air Fryer Oven 9 programs 5 liters|0|||||EUR
+|5905575904683||Airfryer Oven 12 programs 5 liters|665|||||EUR
+|5902934833738||Pressure Cooker|255|||||EUR
+|5903887809375||Slow cooker 4,7L LED|0|||||EUR
+|5905575901811||Rice cooker|3315|||||EUR
+|5908256833876||Cooker induction|0|||||EUR
+|5908256839090||Cooker one-burner|0|||||EUR
+|5908256839083||Cooker two-burner|1148|||||EUR
+|5903887805322||Cooker induction two-burner|142|||||EUR
+|5903887809399||Cooker induction|91|||||EUR
+|5908256835320||Grill raclette|80|||||EUR
+|5903887805605||Food Dehydrator|1294|||||EUR
+|5908256835153||Steam cleaner|1220|||||EUR
+|5908256838215||Car brushes|392|||||EUR
+|5901362005717||Set of 4 dust bags For CR 7037, AD7041 AD7007|432|||||EUR
+|5902934831260||Hepa and outlet filter set for CR7037|1739|||||EUR
+|5902934837569||Filter set for CR 7039|390|||||EUR
+|5902934839907||Professional industrial vacuum cleaner with tool socket|697|||||EUR
+|5901362007216||Non woven bag set 5 pcs.|430|||||EUR
+|5902934839938||Plastic hose|62|||||EUR
+|5902934839952||Sponge filter|112|||||EUR
+|5902934839976||HEPA filter|7|||||EUR
+|5902934839990||Cotton filter|18|||||EUR
+|5903887800013||Professional floor brush|88|||||EUR
+|5903887800037||Universal floor brush|68|||||EUR
+|5903887800365||Air outlet filter|65|||||EUR
+|5903887800389||Construction gasket|64|||||EUR
+|5903887802055||Bagless vacuum cleaner CR 7046|1267|||||EUR
+|5903887803175||HEPA H12 Filter for CR 7046|278|||||EUR
+|5905575905192||CR 7063  Efficient vacuum cleaner for a large house PRO|401|||||EUR
+|5905575905215||Spare Hepa Filert AD 7063.1|109|||||EUR
+|5905575905239||Spare battery for AD 7063|28|||||EUR
+|5905575905253||Vacuum cleaner stand and accessories CR 7063|0|||||EUR
+|5905575905277||SOFT ROLLER FOR CR 7063|33|||||EUR
+|5908256831490||Fan 45 cm - velocity fan|0|||||EUR
+|5908256831506||Stand Fan 45 cm - velocity|0|||||EUR
+|5908256835306||Fan 45 cm - metal with remote control|0|||||EUR
+|5902934835343||"Fan Tower 107cm / 42"""|0|||||EUR
+|5903887804165||Tripod Loft fan 40cm / 16”|199|||||EUR
+|5902934832465||Electirc heating under-blanket with timer (1)|0|||||EUR
+|5902934832489||Electirc heating under-blanket with timer (2)|133|||||EUR
+|5902934832649||Electirc heating throw-blanket with timer (1) SUPER SOFT|0|||||EUR
+|5902934832601||Electirc heating under-blanket with timer (2)|0|||||EUR
+|5902934832625||Electirc heating under-blanket with timer (1)|228|||||EUR
+|5902934832502||Electirc heating under-blanket with timer (1)|321|||||EUR
+|5902934832526||Electirc heating under-blanket with timer (2)|213|||||EUR
+|5902934837118||Electric heating pad - grey color|900|||||EUR
+|5903887801195||Heated den for animals|0|||||EUR
+|5903887806343||Electirc heating throw-blanket with timer (1) SUPER SOFT|0|||||EUR
+|5903887807364||Electirc heating under-blanket with timer (1)|0|||||EUR
+|5903887807388||Electirc heating under-blanket with timer (2)|336|||||EUR
+|5905575903549||Electirc heating throw-blanket with timer (1)  SUPER SOFT|270|||||EUR
+|5905575903563||Electirc heating throw-blanket with timer (1) SUPER SOFT|0|||||EUR
+|5902934831789||Heater - Easy Heater|0|||||EUR
+|5902934837408||Convection glass heater LCD with remote control|30|||||EUR
+|5902934837194||Ceramic fan heat tower LCD + Remote control + Timer|0|||||EUR
+|5903887801430||Ceramic heater with LED|227|||||EUR
+|5903887805360||Patio heater - standing|600|||||EUR
+|5903887806947||Convection fan heater LCD with remote control|0|||||EUR
+|5903887806473||Ceramic fan heater 2400W|0|||||EUR
+|5903887809986||Ceramic fan heat tower LCD + Remote control + Timer|0|||||EUR
+|5905575900043||Bathroom heater|743|||||EUR
+|5902934836838||Oil-filled LED radiator with remote control 9 ribs|0|||||EUR
+|5903887801270||Oil-filled LED radiator with remote control 7 ribs|0|||||EUR
+|5903887801287||Oil-filled LED radiator with remote control 11 ribs|0|||||EUR
+|5903887801294||Oil-filled LED radiator with remote control 13 ribs|0|||||EUR
+|5903887802192||Air Dehumidifier LED (compressor)|945|||||EUR
+|5903887802208||Carbon air filter for CR7851 and AD7917|194|||||EUR
+|5903887802222||PP air filter for CR 7851 and AD 7917|45|||||EUR
+|5903887804530||Air conditioner 9000BTU with WIFI & heating|0|||||EUR
+|5903887805216||Tower Air cooler 3in1|0|||||EUR
+|5908256835054||Air dehumidifier|726|||||EUR
+|5908256837331||Air cooler 8L 3 in 1 with remote controller|0|||||EUR
+|5908256839335||Air conditioner 12000 BTU|0|||||EUR
+|5902934831086||Air cooler 7L 3 in 1|0|||||EUR
+|5902934831406||Air conditioner 7000 BTU|0|||||EUR
+|5902934835480||Air conditioner 9000BTU|0|||||EUR
+|5902934836340||Window kit for CR7912 / AD7916|0|||||EUR
+|5902934839341||Air cooler 8L ION 4 in 1 with remote controller|0|||||EUR
+|5902934839457||Air conditioner 7000 BTU|0|||||EUR
+|5903887804554||Air conditioner 9000 BTU|0|||||EUR
+|5903887809535||Ultrasonic aroma diffuser 3in1|870|||||EUR
+|5905575900937||Ultrasonic Humidifier|961|||||EUR
+|5905575900913||Ultrasonic Humidifier|1057|||||EUR
+|5905575900951||Air humidifier filter|220|||||EUR
+|5908256835795||Washing machine + spinning|0|||||EUR
+|5902934835732||Washing machine + spinning|0|||||EUR
+|5908256830165||Portable cooler 40 L|4298|||||EUR
+|5908256831551||Portable cooler 21 L|1776|||||EUR
+|5908256839304||Ice cube maker|968|||||EUR
+|5902934839464||Portable refrigerator 38L with compressor|10|||||EUR
+|5902934839501||Adapter AC/DC for CR8076, AD8077, AD8081|769|||||EUR
+|5903887805377||Bathroom scale baby weighing mode 180kg|544|||||EUR
+|5903887805391||Bathroom scale w/ baby weighing mode - 180kg|1163|||||EUR
+|5905575902221||Baby scale - 20kg - automatic HOLD function|780|||||EUR
+|5908256832022||Lint remover with large blade 65 mm diameter|0|||||EUR
+|5905575902344||Lint remover LCD|549|||||EUR
+|5903887805940||Oil-filled LED radiator with remote control 15 ribs|0|||||EUR
+|5902934834230||Kettle glass 2,0 L|3486|||||EUR
+|5903887804639||Bathroom scale - LED display|2081|||||EUR
+|5903887804677||Bathroom scale - LED display|3610|||||EUR
+|5903887807548||Mechanical bathroom scale|9729|||||EUR
+|5902934836609||Weather station|1415|||||EUR
+|5903887808958||Kettle plastic 1,7 L|2868|||||EUR
+|5902934831109||Kettle plastic 1,0 L|2846|||||EUR
+|5903887803915||Kettle 1,7 L|43|||||EUR
+|5903887803908||Kettle 1,7 L|2036|||||EUR
+|5903887808521||Kettle glass 1,7 L|1648|||||EUR
+|5903887808545||Kettle glass 1,7 L|1594|||||EUR
+|5908256837188||Curling iron - conical - 13-25mm|2043|||||EUR
+|5908256831292||Foot massager|1209|||||EUR
+|5902934831383||Hair dryer 2000 W|1450|||||EUR
+|5902934831338||HAIR DRYER - 2100W|578|||||EUR
+|5903887801249||Hair dryer 1000W|1590|||||EUR
+|5903887802284||Hair dryer 1400W|880|||||EUR
+|5908256832848||Hair straightener - ceramic|1213|||||EUR
+|5908256839717||Hair clipper for pets|1484|||||EUR
+|5905575901699||Hair clipper - LED - USB-c|1392|||||EUR
+|5905575901866||Hair clipper with LCD|1289|||||EUR
+|5908256839625||Shaver for men|2345|||||EUR
+|5902934837460||Shaver for men|1282|||||EUR
+|5902934838184||Head for  MS2926|201|||||EUR
+|5902934838474||Nose trimmer|0|||||EUR
+|5902934838917||Trimmer 5 in 1|1960|||||EUR
+|5908256839878||Sandwich maker|3459|||||EUR
+|5902934834001||Nut Maker (24 pcs) XL|0|||||EUR
+|5902934835411||Sandwich maker 3 in 1|1872|||||EUR
+|5902934839525||Electric contact grill|1424|||||EUR
+|5908256834217||Kitchen scale|936|||||EUR
+|5908256836570||Scale kitchen with a bowl 2L|828|||||EUR
+|5902934830386||Kitchen scale|0|||||EUR
+|5902934835268||Kitchen scale|1513|||||EUR
+|5902934830393||Kitchen scale|1431|||||EUR
+|5902934834667||Kitchen scale with a bowl|1406|||||EUR
+|5902934838818||Kitchen scale - INOX|0|||||EUR
+|5905575903501||Kitchen scale with a bowl|777|||||EUR
+|5905575903525||Kitchen scale with a bowl|918|||||EUR
+|5903887800181||Toaster 2 slice|679|||||EUR
+|5903887801171||Citrus juicer|0|||||EUR
+|5902934830263||Blender|0|||||EUR
+|5902934839617||Blender|402|||||EUR
+|5902934837057||Jar for blender MS4079 - beige|0|||||EUR
+|5902934837040||Jar for blender MS4079 - red|266|||||EUR
+|5903887802017||Jar for blender MS4079 - black|78|||||EUR
+|5902934839204||Blender - Glass jar 1,5L|1468|||||EUR
+|5902934839228||Glass jar 1,5L|0|||||EUR
+|5903887801874||Juice extractor 600W|1426|||||EUR
+|5902934831895||Juice extractor 600W|354|||||EUR
+|5902934838672||Planetary food processor 1200W|2091|||||EUR
+|5908256836297||Espresso Machine - 15 bar|1817|||||EUR
+|5908256831445||Pepper / salt mill|1868|||||EUR
+|5902934831444||Egg boiler for 3 eggs|0|||||EUR
+|5903887803823||Vacuum sealer|13|||||EUR
+|5903887801058||Milk frother|1532|||||EUR
+|5903887801072||Milk frother|2200|||||EUR
+|5903887801096||Milk frother|193|||||EUR
+|5903887806091||Milk frother|2469|||||EUR
+|5902934830157||Blender hand|970|||||EUR
+|5908256835849||Meat mincer|1027|||||EUR
+|5902934833844||Meat mincer|2000|||||EUR
+|5908256836983||Fryer deep 2,5 L|1878|||||EUR
+|5902934830829||Fryer deep 1,5 L|1298|||||EUR
+|5908256834309||Iron steel soleplate 2200 W|1810|||||EUR
+|5908256839380||Iron ceramic soleplate 2600 W|494|||||EUR
+|5902934833837||Iron ceramic 3000 W|1097|||||EUR
+|5903887807609||Steam iron 2800W|4042|||||EUR
+|5902934838870||Bread maker - 15 Programs|455|||||EUR
+|5902934838894||Rice cooker - capacity 1.5L|1830|||||EUR
+|5908256839014||Electric stove One Burner|854|||||EUR
+|5908256839137||Electric stove Two Burner|1145|||||EUR
+|5908256835283||Mop pads for MS 7020 5 pcs.|176|||||EUR
+|5905575905390||Vertical cyclone vacuum cleaner|0|||||EUR
+|5905575905413||Spare filter for MS7058|0|||||EUR
+|5908256832329||Fan 23 cm - desk|0|||||EUR
+|5908256832336||Fan 30 cm - desk|0|||||EUR
+|5908256832350||Fan 40 cm - desk|0|||||EUR
+|5908256832343||Fan 40 cm - stand|0|||||EUR
+|5902934839297||Fan - Desk - 15cm USB|0|||||EUR
+|5903887804127||"Velocity floor fan 50cm / 20"""|0|||||EUR
+|5902934832564||Electirc heating under-blanket (1)|714|||||EUR
+|5902934832588||Electirc heating under-blanket (2)|671|||||EUR
+|5902934837095||Electric heating pad - grey color|815|||||EUR
+|5908256839854||Heater quartz|0|||||EUR
+|5902934831710||Heater fan|0|||||EUR
+|5903887801744||Ceramic fan heat tower LCD + Remote control + Timer|0|||||EUR
+|5903887806442||Convector heater with timer and Turbo fan|0|||||EUR
+|5903887806411||Convector heater with timer and Turbo fan|0|||||EUR
+|5908256834262||Oil-filled radiator 7 ribs|0|||||EUR
+|5908256834279||Oil-filled radiator 9 ribs|0|||||EUR
+|5908256834286||Oil-filled radiator 11 ribs|0|||||EUR
+|5903887804547||Air conditioner 9000BTU|0|||||EUR
+|5902934835473||Air conditioner 5000BTU|0|||||EUR
+|5902934839372||Air cooler 3in1 4L|0|||||EUR
+|5902934839471||Air conditioner 7000 BTU|0|||||EUR
+|5902934830959||Washing machine + spinning|0|||||EUR
+|5908256832381||Bathroom scale|2080|||||EUR
+|5908256835481||Bathroom scale with analyzer|2667|||||EUR
+|5908256838291||Bathroom scale|441|||||EUR
+|5908256838581||Bathroom scale|45|||||EUR
+|5908256838444||Bathroom scale|303|||||EUR
+|5902934830416||Bathroom mechanical scale|1984|||||EUR
+|5908256833951||Lint remover|3507|||||EUR

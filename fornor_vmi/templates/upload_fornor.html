@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload fichier CSV Fornor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f9f9f9;
+        }
+        h2, h3 {
+            color: #333;
+        }
+        .section {
+            background-color: white;
+            padding: 25px;
+            border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            max-width: 700px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 14px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 5px 0;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        a.btn-link {
+            text-decoration: none;
+            color: #007BFF;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="section">
+        <h2>📤 Insérer un fichier CSV Fornor</h2>
+
+        <a href="{{ url_for('historique') }}" class="btn-link">📄 Voir l’historique des envois</a>
+
+        <form method="POST" enctype="multipart/form-data">
+            <input type="file" name="file" accept=".csv" required><br><br>
+            <button type="submit">SUBMIT</button>
+        </form>
+
+        <h3>📁 Fichiers CSV déjà importés</h3>
+        {% if file_list %}
+            <table>
+                <tr>
+                    <th>Nom du fichier</th>
+                    <th>Date d'import</th>
+                </tr>
+                {% for filename, date in file_list %}
+                <tr>
+                    <td>{{ filename }}</td>
+                    <td>{{ date }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        {% else %}
+            <p>Aucun fichier enregistré récemment.</p>
+        {% endif %}
+
+        <form method="GET" action="/logout">
+            <button style="background-color: #dc3545;">Déconnexion</button>
+        </form>
+    </div>
+</body>
+</html>
+

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Erreur de connexion</title>
+    <style>
+        body {
+            background-color: #2d2d2d;
+            color: white;
+            text-align: center;
+            font-family: sans-serif;
+            margin-top: 100px;
+        }
+        a {
+            color: red;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Le nom d'utilisateur/mot de passe est incorrect.</h1>
+    <p><a href="{{ url_for('login') }}">Cliquez ici pour vous connecter</a></p>
+</body>
+</html>
+

@@ -1,0 +1,68 @@
+[
+    {
+        "file": "RETAIL_FEED_WHYQI_20250523_00.TXT",
+        "timestamp": "2025-05-23 10:28:33",
+        "status": "succ\u00e8s",
+        "message": ""
+    },
+    {
+        "file": "RETAIL_FEED_WHYQI_20250526_00.TXT",
+        "timestamp": "2025-05-26 09:44:27",
+        "status": "\u00e9chec",
+        "message": "[Errno 2] No such file or directory: '/home/ubuntu/.ssh/adler_send_key'"
+    },
+    {
+        "file": "RETAIL_FEED_WHYQI_20250526_00.TXT",
+        "timestamp": "2025-05-26 09:48:18",
+        "status": "succ\u00e8s",
+        "message": ""
+    },
+    {
+        "file": "RETAIL_FEED_WHYQI_20250526_00.TXT",
+        "timestamp": "2025-05-26 15:29:26",
+        "status": "succ\u00e8s",
+        "message": ""
+    },
+    {
+        "file": "RETAIL_FEED_WHZA1_20250526_00.TXT",
+        "timestamp": "2025-05-26 15:29:28",
+        "status": "succ\u00e8s",
+        "message": ""
+    },
+    {
+        "file": "RETAIL_FEED_WHZ9J_20250526_00.TXT",
+        "timestamp": "2025-05-26 15:29:30",
+        "status": "succ\u00e8s",
+        "message": ""
+    },
+    {
+        "file": "RETAIL_FEED_WHZ9I_20250526_00.TXT",
+        "timestamp": "2025-05-26 15:29:31",
+        "status": "succ\u00e8s",
+        "message": ""
+    },
+    {
+        "file": "RETAIL_FEED_WHZA0_20250526_00.TXT",
+        "timestamp": "2025-05-26 15:29:33",
+        "status": "succ\u00e8s",
+        "message": ""
+    },
+    {
+        "file": "RETAIL_FEED_WHZ9N_20250526_00.TXT",
+        "timestamp": "2025-05-26 15:29:34",
+        "status": "succ\u00e8s",
+        "message": ""
+    },
+    {
+        "file": "RETAIL_FEED_WHZB4_20250526_00.TXT",
+        "timestamp": "2025-05-26 15:29:36",
+        "status": "succ\u00e8s",
+        "message": ""
+    },
+    {
+        "file": "RETAIL_FEED_WHZ9Y_20250526_00.TXT",
+        "timestamp": "2025-05-26 15:29:37",
+        "status": "succ\u00e8s",
+        "message": ""
+    }
+]

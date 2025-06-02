@@ -1,0 +1,960 @@
+Link;Price;Currency;Available_in_warehouse_pcs;EAN_PCS;Product_name
+ad_08_beige;5.89;EUR;2519;5908256836860;Kettle plastic 1,0 L
+ad_08_white;5.89;EUR;2926;5907468860083;Kettle plastic 1,0 L
+ad_1037b;24.23;EUR;344;5905575907295;Paper Shredder
+ad_1037s;24.23;EUR;366;5905575907318;Paper Shredder
+ad_1037w;24.23;EUR;356;5905575907332;Paper Shredder
+ad_1038e;35.62;EUR;368;5905575907370;Paper Shredder
+ad_1038b;35.62;EUR;343;5905575907356;Paper Shredder
+ad_1038g;35.62;EUR;366;5905575907394;Paper Shredder
+ad_1039;13.90;EUR;177;5905575907257;Paper Shredder
+ad_1040;10.84;EUR;308;5905575907271;Paper Shredder
+ad_1121;8.93;EUR;3437;5908256833395;Alarmclock radio
+ad_1175;15.26;EUR;57;5902934836647;Weather station
+ad_1181;20.56;EUR;1923;5902934838580;CD Boombox
+ad_1184;25.22;EUR;266;5902934839167;Radio DAB+ Bluetooth
+ad_1185;15.03;EUR;1269;5902934839181;Bluetooth Radio
+ad_1186;8.65;EUR;714;5903887805636;LED clock with thermometer
+ad_1186w;8.65;EUR;1644;5905575903150;LED clock with thermometer
+ad_1187;39.36;EUR;298;5903887800075;Retro Radio
+ad_1189b;3.54;EUR;1561;5903887807999;Alarm clock
+ad_1189w;3.54;EUR;1478;5903887808019;Alarm clock
+ad_1190cr;12.73;EUR;786;5903887808989;Wireless alarm clock with radio 
+ad_1190s;13.40;EUR;0;5903887809009;Wireless alarm clock with radio
+ad_1191;8.75;EUR;1823;5903887808569;Clock Speaker AD 1191
+ad_1192b;18.91;EUR;324;5903887808408;Alarm clock with Wireless Charger
+ad_1192w;18.91;EUR;449;5903887808385;Alarm clock with Wireless Charger
+ad_1195b;7.74;EUR;1566;5903887809450;Battery-operated alarm clock
+ad_1195w;7.74;EUR;842;5903887809474;Battery-operated alarm clock
+ad_1196b;4.88;EUR;2252;5903887809412;Battery-operated alarm clock
+ad_1196w;4.88;EUR;1039;5903887809436;Battery-operated alarm clock
+ad_1197;12.47;EUR;0;5905575900678;Crank powered Radio
+ad_1198;12.89;EUR;784;5905575902009;FM travel radio AD 1198
+ad_1199b;10.36;EUR;184;5905575902429;Karaoke speaker with microphone
+ad_1199w;10.36;EUR;583;5905575902382;Karaoke speaker with microphone
+ad_1203;8.93;EUR;4181;5907633494495;Kettle metal 1,0 L
+ad_1207;6.45;EUR;3752;5908256830325;Kettle plastic 1,5 L
+ad_1216;8.84;EUR;0;5908256830646;Kettle metal 1,7 L
+ad_1223;10.10;EUR;2884;5908256832602;Kettle metal 1,7 L
+ad_1224;8.85;EUR;67;5908256832732;Kettle glass 1,5 L
+ad_1225;9.39;EUR;2364;5908256832749;Kettle glass 1,7 L
+ad_1234;6.92;EUR;538;5908256833166;Kettle plastic 1,7 L
+ad_1244;7.58;EUR;1176;5908256835399;Kettle plastic 2,5 L
+ad_1247_new;14.57;EUR;2715;5902934831116;Kettle glass 1,7 L - temp. control
+ad_1264;7.50;EUR;2141;5902934830928;Kettle plastic 1,7 L
+ad_1268;5.07;EUR;956;5908256839328;Kettle plastic 0,6 L - travel
+ad_1272;5.71;EUR;2631;5902934831093;Kettle plastic 1,0 L
+ad_1273;8.31;EUR;1501;5902934830911;Kettle metal 1,0 L
+ad_1274b;8.79;EUR;0;5902934830973;Kettle glass electric 1,7L
+ad_1274w;8.79;EUR;1734;5902934830966;Kettle glass electric 1,7L
+ad_1277b;10.30;EUR;1308;5902934831222;Kettle plastic 1,7 L
+ad_1277w;10.30;EUR;1784;5902934831239;Kettle plastic 1,7 L
+ad_1279;8.98;EUR;10053;5902934831512;Kettle plastic 0,6 L - silicon travel
+ad_1282;17.29;EUR;627;5903887803199;Kettle glass 1,5L STRIX
+ad_1283c;7.60;EUR;2478;5902934833394;Kettle glass electric 1,0L
+ad_1283g;7.60;EUR;4074;5902934833417;Kettle glass electric 1,0L
+ad_1285;16.43;EUR;0;5903887804592;Kettle glass 1,7 l - with temp. control 
+ad_1295b;16.83;EUR;1594;5902934839266;SS satin black kettle 1,7L with LCD display & temperature regulation
+ad_1295;16.83;EUR;233;5902934838849;SS champion gold kettle 1,7L with LCD display & temperature regulation
+ad_1295g;16.83;EUR;1923;5905575902948;SS satin grey kettle 1,7L with LCD display & temperature regulation
+ad_1295w;16.83;EUR;869;5902934839242;SS satin white kettle 1,7L with LCD display & temperature regulation
+ad_1299;13.35;EUR;515;5903887804615;Kettle glass 1,5 l - with temp. control  and  tea infuser
+ad_1304;22.38;EUR;1255;5905575905956;Ceramic electric kettle  1,0L
+ad_1305bg;11.84;EUR;1079;5905575907806;Electric kettle glass with LED display & temperature regulation 1,7L
+ad_1305bs;11.84;EUR;0;5905575907783;Electric kettle glass with LED display & temperature regulation 1,7L
+ad_1305bu;11.84;EUR;699;5905575907882;Electric kettle glass with LED display & temperature regulation 1,7L
+ad_1305gs;11.84;EUR;510;5905575907868;Electric kettle glass with LED display & temperature regulation 1,7L
+ad_1305wg;11.84;EUR;1499;5905575907844;Electric kettle glass with LED display & temperature regulation 1,7L
+ad_1305ws;11.84;EUR;240;5905575907820;Electric kettle glass with LED display & temperature regulation 1,7L
+ad_1340;17.08;EUR;1118;5903887805247;Electric kettle 1,7L with LCD display & temperature regulation
+ad_1341;20.78;EUR;961;5903887805094;Kettle metal 1,7 L STRIX
+ad_1343b;17.96;EUR;176;5903887805018;Kettle metal 1,5 L STRIX
+ad_1343c;17.96;EUR;0;5903887805056;Kettle metal 1,5 L STRIX
+ad_1343g;17.96;EUR;228;5903887805032;Kettle metal 1,5 L STRIX
+ad_1343w;17.96;EUR;255;5903887804998;Kettle metal 1,5 L STRIX
+ad_1345b;24.23;EUR;675;5903887807449;Electric kettle  with LED display & temperature regulation 1,7L STRIX
+ad_1345w;23.37;EUR;491;5903887807425;Electric kettle  with LED display & temperature regulation 1,7L STRIX
+ad_1346b;22.54;EUR;586;5903887808644;Electric kettle with a thermometer 1,7L STRIX
+ad_1346w;22.54;EUR;499;5903887808620;Electric kettle with a thermometer 1,7L STRIX
+ad_1347b;16.77;EUR;0;5903887808682;Kettle metal 1,7 L STRIX
+ad_1347w;16.77;EUR;1385;5903887808668;Kettle metal 1,7 L STRIX
+ad_1349;18.96;EUR;2956;5905575902535;Electric kettle with long spout 1,0 l 
+ad_1350;13.22;EUR;0;5905575903389;Electric kettle  with LED display & temperature regulation 1,7L
+ad_1370uk;9.01;EUR;2129;5903887806459;Kettle plastic 0,6 L - silicon travel UK plug
+ad_1371g;5.88;EUR;1875;5903887809184;Kettle plastic 0,8 L
+ad_1371w;5.88;EUR;3903;5903887809207;Kettle plastic 0,8 L
+ad_1372b;7.86;EUR;5248;5903887809689;Electric kettle 0,6L
+ad_1372w;7.86;EUR;1663;5903887809665;Electric kettle 0,6L
+ad_1373;5.85;EUR;2354;5905575901613;Kettle plastic 1,0 L
+ad_1377g;10.45;EUR;659;5905575906779;Silicon Kettle  0,6 L -  travel 
+ad_1377w;10.45;EUR;832;5905575906793;Silicon Kettle  0,6 L -  travel 
+ad_1381;5.19;EUR;2851;5905575908032;Electric Kettle plastic - travel 0,5l
+ad_1903;11.43;EUR;1225;5905575904102;Wireless speaker with radio
+ad_1904;10.12;EUR;1515;5905575904126;Bluetooth speaker
+ad_1906;9.67;EUR;69;5905575905499;PLL AM/FM Digital Radio
+ad_1907;11.12;EUR;1642;5905575905536;Digital radio PLL AM/FM 
+ad_1908;12.86;EUR;1069;5905575905512;Digital Radio - PLL AM/FM
+ad_1909;9.89;EUR;0;5905575904546;AM / FM Radio AD 1909
+ad_1911;22.07;EUR;1166;5905575906342;Construction radio with Bluetooth
+ad_1912;6.60;EUR;599;5905575906472;Waterproof universal radio AD 1912
+ad_1914w;34.55;EUR;908;5905575907578;AD 1914 Turntable
+ad_1914e;34.55;EUR;835;5905575907592;AD 1914 Turntable
+ad_1915;53.46;EUR;723;5905575907615;Turntable with USB
+ad_2022;11.54;EUR;991;5908256839649;Hair styler - 1200W - 6 attachments + travel pouch
+ad_2026;7.93;EUR;902;5905575901637;Hair styler - 1200W - 2 attachments
+ad_2027;15.28;EUR;2235;5905575901651;Hair styler 5 in 1 - 1200W - 5 attachments
+ad_2104;6.47;EUR;0;5908256832527;Hair straightener 2 in 1 - ceramic
+ad_2105;4.11;EUR;311;5908256832534;Curling iron - 19mm
+ad_2106;4.05;EUR;821;5908256832541;Curling iron - 25mm
+ad_2112;4.51;EUR;1834;5902934831376;Curling iron - 32mm
+ad_2113;8.46;EUR;95;5902934836210;Curling iron with comb - 26mm
+ad_2114;7.99;EUR;207;5902934838931;Curling iron with LCD - 25mm
+ad_2115;4.63;EUR;0;5902934838955;Curling iron - 25mm
+ad_2116;6.43;EUR;0;5902934839037;Curling iron - 19mm - temp. control
+ad_2117;6.63;EUR;242;5903887808262;Curling iron - 25mm - temp. control 
+ad_2118;6.81;EUR;2784;5903887808286;Curling iron - 32mm - temp. control
+ad_2119;7.52;EUR;1884;5905575906595;Conical curling iron
+ad_2120;14.56;EUR;1805;5905575906977;Cordless curling iron - USB
+ad_2155_1;0.88;EUR;841;5902934830577;Roller set for AD 2155
+ad_2159;9.17;EUR;600;5908256835818;Mirror LED
+ad_2167;16.72;EUR;1065;5902934830294;Foot massager
+ad_2168;5.55;EUR;2361;5902934832182;LED Bathroom Mirror
+ad_2175.1;2.04;EUR;592;5902934838276;Heads for sonic toothbrush AD 2175
+ad_2176;16.55;EUR;0;5903887800273;Travel Oral Irigator
+ad_2177;25.94;EUR;860;5903887801768;Foot Massager
+ad_2178;5.74;EUR;1580;5903887808057;Facial cleansing brush
+ad_2179;6.75;EUR;782;5905575901019;5 in 1 Electric nail drill
+ad_2180b;30.40;EUR;351;5905575902863;2-in-1 Water Flossing Sonic Brush
+ad_2180w;30.40;EUR;324;5905575902887;2-in-1 Water Flossing Sonic Brush
+ad_2181;15.08;EUR;2180;5905575904836;Electric nail drill – set 11 in 1
+ad_2222;4.75;EUR;763;5908256830288;Hair dryer 1200 W
+ad_2244;11.94;EUR;1106;5908256838680;Hair dryer 2000W ION, diffuser, AC motor
+ad_2247;4.76;EUR;348;5902934830300;Hair dryer 1400 W
+ad_2248b;9.16;EUR;2944;5903887801706;ION HAIR DRYER - 2200W + diffuser
+ad_2248;9.16;EUR;146;5902934831062;ION HAIR DRYER - 2200W + diffuser
+ad_2251;3.78;EUR;1219;5902934831321;Hair dryer 1400 W
+ad_2252;8.86;EUR;2464;5902934833226;Hair dryer for hotel and swimming pool
+ad_2259;4.52;EUR;1132;5903887802246;Hair dryer 1200W
+ad_2260;5.77;EUR;1934;5903887802260;Hair dryer 1600W
+ad_2263;5.89;EUR;3763;5903887802307;Hair dryer 1800W
+ad_2265;5.01;EUR;2368;5903887802345;Hair dryer 1200W
+ad_2266;5.11;EUR;1093;5903887802321;Hair dryer 1200W
+ad_2267;7.50;EUR;0;5903887803021;Hair dryer - rubber housing - 2100W + diffuser
+ad_2270b;31.16;EUR;264;5905575901965;SUPERSPEED Hair dryer
+ad_2270p;31.16;EUR;235;5905575901941;SUPERSPEED Hair dryer
+ad_2271;40.45;EUR;536;5905575902085;SUPERSPEED hair dryer - Brushless motor 110,000 RPM
+ad_2272;31.87;EUR;135;5905575901422;SUPERSPEED - Hair Dryer
+ad_2273;11.43;EUR;3916;5905575903648;Hair dryer with retractable power cord - 2400W + diffuser
+ad_2278;6.49;EUR;1227;5905575904201;Hair dryer - 1400W
+ad_2279b;8.86;EUR;1396;5905575904249;Hair dryer
+ad_2279p;8.86;EUR;1502;5905575904225;Hair dryer
+ad_2283;10.25;EUR;2644;5905575906755;Hair dryer with retractable power cord - 2400W + diffuser
+ad_2285w;11.73;EUR;2789;5905575908018;Hair Dryer - Wall-Mount 
+ad_2317;4.69;EUR;1178;5902934831352;Hair straightener - ceramic
+ad_2318;8.01;EUR;3469;5902934831345;Infrared Hair Straightener  - with temp. control
+ad_2321;8.81;EUR;1584;5903887805117;Hair straightener - ceramic /w temp. control
+ad_2324;6.19;EUR;1353;5903887808309;Hair brush
+ad_2325;7.65;EUR;1347;5905575902733;Hair straightener - wide (/w temp. control)
+ad_2326;12.18;EUR;892;5905575903600;Professional Airflow styler
+ad_2327b;17.28;EUR;1388;5905575907493;Cordless hair straightener – USB
+ad_2327p;17.28;EUR;1331;5905575907479;Cordless hair straightener – USB
+ad_2818;7.74;EUR;2037;5908256838468;Hair clipper
+ad_2822;9.80;EUR;1089;5908256833630;Hair clipper + trimmer
+ad_2823;12.84;EUR;703;5908256836150;Hair clipper for pets - USB
+ad_2825;4.78;EUR;2462;5908256838604;Hair clipper
+ad_2827;12.56;EUR;1257;5902934830423;Hair clipper
+ad_2827.1;3.51;EUR;409;5902934832748;Hair clippers head to AD 2827
+ad_2831;19.84;EUR;1487;5903887802383;Proffesional Hair clipper
+ad_2831.1;6.17;EUR;326;5903887803120;Blade for AD2831
+ad_2832;10.90;EUR;1392;5902934833783;Hair Clipper
+ad_2832.1;3.78;EUR;140;5902934834520;Blade for AD 2832
+ad_2834;16.34;EUR;1218;5903887802369;Hair Clipper LCD
+ad_2834.1;3.66;EUR;414;5903887803144;Head For AD 2834
+ad_2836g;14.81;EUR;703;5903887805544;Trimmer professional - USB                                                                                                                               
+ad_2836s;14.81;EUR;665;5903887805520;Trimmer professional - USB        
+ad_2836.1;4.27;EUR;0;5903887805568;Blade for AD 2836 Gold and AD 2836 Silver
+ad_2839;11.53;EUR;846;5905575901750;Hair clipper LED - USB-c
+ad_2910w;7.73;EUR;1379;5905575904812;Shaver for men
+ad_2911;1.57;EUR;2755;5908256833135;Trimmer
+ad_2922;7.12;EUR;0;5902934830997;Beard Trimmer - USB charging
+ad_2923;6.14;EUR;0;5902934832120;Shaver - USB charging
+ad_2923.1;0.61;EUR;0;5902934834490;Foil for shaver AD2923
+ad_2928;7.40;EUR;0;5902934838399;Men shaver
+ad_2928.1;2.14;EUR;97;5902934838412;Head for AD 2928
+ad_2933;11.17;EUR;86;5903887805650;Electric shaver AD 2933 3 heads
+ad_2933.1;3.67;EUR;269;5903887805674;Dualtrack Head For AD 2933
+ad_2934b;3.87;EUR;2017;5903887805841;Eyebrow trimmer
+ad_2934w;3.37;EUR;820;5903887805827;Eyebrow trimmer
+ad_2936;6.35;EUR;510;5903887807067;Travel Shaver - USB 2 heads
+ad_2936.1;1.16;EUR;0;5903887807128;Head for AD 2936
+ad_2937;6.46;EUR;1902;5903887807081;Travel Shaver - USB 2 heads
+ad_2937.1;1.67;EUR;66;5903887807142;Head for AD 2937
+ad_2939;3.56;EUR;2734;5903887807401;Laddy trimmer
+ad_2940.1;3.90;EUR;437;5903887807913;Heaed for AD 2940
+ad_2941;6.04;EUR;289;5903887808033;Lady shaver
+ad_2941.1;0.76;EUR;225;5903887808484;Replacement foil for AD 2941
+ad_2943;8.44;EUR;1855;5905575901477;Grooming 5 in 1 set - LED - USB-c
+ad_2944;11.49;EUR;691;5905575901774;Grooming 6 in 1 set - LED - USB-c
+ad_2945;8.98;EUR;2330;5905575901675;Electric shaver with beard trimmer - LED - USB - IPX7
+ad_2946;12.18;EUR;0;5905575901989;5in1 Men’s grooming kit
+ad_301;7.17;EUR;1768;5901436590279;Sandwich maker
+ad_3015;6.63;EUR;1852;5908256832503;Sandwich maker
+ad_3036;18.27;EUR;3603;5902934830041;Waffle maker 1300 W
+ad_3038;11.37;EUR;1065;5902934830256;Wafer maker/cone maker
+ad_3039;13.58;EUR;2020;5902934831024;Nut Maker (24 pcs) XL
+ad_3039b;14.24;EUR;0;5905575900081;Nut Maker (24 pcs) XL
+ad_3040;18.34;EUR;4145;5902934832168;Multifunctional Baking Device 5in1
+ad_3043;12.02;EUR;1806;5902934835459;Sandwich maker. USA Size XXL
+ad_3049;19.88;EUR;3971;5903887802970;Waffle maker
+ad_3051;25.56;EUR;1166;5902934839310;Electric grill XL
+ad_3052;9.92;EUR;1317;5903887801959;Electric grill 
+ad_3055;12.85;EUR;2255;5903887802031;Sandwich Maker
+ad_3058;14.96;EUR;1969;5903887807043;Crepe maker
+ad_3059;55.14;EUR;703;5903887807937;Electric grill LED 2in1
+ad_3062;16.08;EUR;2362;5905575900357;Waffle bowl maker
+ad_3066;9.50;EUR;1327;5905575901408;Multifunctional device - toasting, baking, grilling ( Double-sided) 
+ad_3068;9.28;EUR;720;5905575902573;Electric grill
+ad_3069;8.72;EUR;534;5905575902719;Sandwich Maker
+ad_3070b;17.01;EUR;625;5905575902924;Sandwich maker 2 in 1
+ad_3070w;17.01;EUR;613;5905575902559;Sandwich maker 2 in 1
+ad_3071;6.56;EUR;2246;5905575902528;Nut Cookie Maker (12 pcs) 
+ad_3072;6.80;EUR;1710;5905575902474;Electric grill 
+ad_3073;17.86;EUR;1301;5905575903112;Sandwich maker 2 in 1
+ad_3075;10.30;EUR;5150;5905575904959;Donut maker  - 7 donuts
+ad_3076;7.51;EUR;2310;5905575904935;Sandwich maker
+ad_3079;8.60;EUR;1594;5905575903624;Sandwich maker 
+ad_3083;18.37;EUR;964;5905575904973;Waffle maker 1800 W
+ad_3085;16.50;EUR;2648;5905575906410;Waffle maker
+ad_3087;24.74;EUR;1872;5905575907639;Waffle Maker with LED Display
+ad_311;9.07;EUR;959;5901436590286;Waffle maker 700 W
+ad_3134;9.41;EUR;2099;5901436590132;Kitchen scale with a bowl 1,8L
+ad_3137s;6.17;EUR;83;5908256839434;Kitchen scale with a bowl
+ad_3137w;5.87;EUR;1864;5907633494587;Kitchen scale with a bowl
+ad_3138b;3.54;EUR;0;5908256833722;Kitchen scale
+ad_3138r;3.54;EUR;992;5908256839168;Kitchen scale
+ad_3138w;3.54;EUR;1338;5908256832268;Kitchen scale
+ad_3161;3.95;EUR;1100;5902934830874;Precision scale - 0.1 gram
+ad_3162;4.43;EUR;583;5902934830881;Precision scale - 0.1 gram
+ad_3166;5.23;EUR;2145;5902934834704;Kitchen scale with a bowl
+ad_3168;4.66;EUR;1146;5902934837262;Precision scale
+ad_3170;5.56;EUR;1167;5903887801577;Kitchen scale - up to 15kg - big size
+ad_3171;4.96;EUR;911;5903887801591;Kitchen scale - up to 10kg
+ad_3173s;4.96;EUR;1894;5903887804738;Kitchen scale - up to 10kg - LED
+ad_3173w;5.12;EUR;1518;5903887804714;Kitchen scale - up to 10kg - LED
+ad_3176;4.69;EUR;1512;5903887807180;Precision scale
+ad_3177b;7.31;EUR;1116;5903887808583;Kitchen scale 10kg USB charged
+ad_3177w;7.13;EUR;117;5903887808606;Kitchen scale 10kg USB charged
+ad_3178;4.90;EUR;1925;5903887809702;Kitchen scale with a measuring cup
+ad_3180;4.95;EUR;596;5905575904287;Kitchen scale LCD - 10 kg
+ad_3181b;3.59;EUR;0;5905575904324;Kitchen scale 
+ad_3181g;3.59;EUR;149;5905575904348;Kitchen scale 
+ad_3181w;3.59;EUR;43;5905575904300;Kitchen scale 
+ad_3183b;4.63;EUR;998;5905575906205;Kitchen scale - 5kg
+ad_3183c;4.63;EUR;1564;5905575906182;Kitchen scale - 5kg
+ad_3214;11.80;EUR;3446;5903887802154;Toaster
+ad_3216;7.92;EUR;929;5902934838238;Toaster 2 slice
+ad_3222;14.44;EUR;1085;5903887802178;Toaster with bun grid
+ad_3223;7.53;EUR;328;5903887805179;Toaster 2 slices
+ad_4009;5.92;EUR;307;5903887801157;Citrus juicer
+ad_4012;8.25;EUR;1802;5903887805131;Citrus juicer
+ad_4014;6.06;EUR;2042;5905575904560;Citrus juicer
+ad_4057;16.72;EUR;0;5908256835207;Blender
+ad_4070;16.03;EUR;0;5908256839007;Blender
+ad_4076;20.05;EUR;416;5902934832243;Blender - Glass jar 1,5L
+ad_4076.1;4.54;EUR;38;5902934834582;Jar for AD4076 / CR4077
+ad_4078;29.21;EUR;765;5902934835763;Blender
+ad_4078.1;10.83;EUR;43;5902934838214;Cup for blender
+ad_4081;18.51;EUR;0;5903887801409;Personal blender with cooling stick
+ad_4082;11.60;EUR;1809;5903887803274;Chopper with the glass bowl
+ad_4084;14.81;EUR;322;5905575905017;Blender Smoothie Set
+ad_4085;14.01;EUR;1921;5903887809863;Blender - jar 1,5L plastic 
+ad_4085.1;3.24;EUR;34;5903887809887;Jug for blender AD4085
+ad_4127;28.35;EUR;986;5903887809023;Juice extractor - 1000W
+ad_4128;28.35;EUR;1049;5903887809047;Juice extractor - 1000W
+ad_4129;28.35;EUR;295;5905575900517;Juice extractor - 1000W
+ad_4130;39.43;EUR;207;5905575900975;Slow Juicer 4130
+ad_4131;56.53;EUR;631;5905575900999;Slow-speed juicer 3in1 - Meat mincer, Juicer, Vegetable grater
+ad_4132;18.76;EUR;1194;5905575902061;Juice extractor 600W - titanium blades
+ad_4201;7.93;EUR;581;5908256831216;Mixer
+ad_4202;15.11;EUR;1124;5908256831223;Mixer with a bowl
+ad_4205;8.09;EUR;1761;5908256831537;Mixer
+ad_4205g;8.09;EUR;1724;5908256836594;Mixer
+ad_4206;14.69;EUR;2109;5908256831544;Mixer with a bowl
+ad_4212;10.62;EUR;2695;5908256835375;Mixer with blending shaft
+ad_4216;37.81;EUR;501;5902934834278;Planetary food processor 1000W
+ad_4221;80.97;EUR;30;5903887803953;Planetary food processor 2200W 7L
+ad_4224;64.57;EUR;644;5903887803014;LCD food processor 12in1
+ad_4225;12.37;EUR;638;5903887802994;Hand Mixer INOX
+ad_4226b;32.21;EUR;0;5903887804844;Planetary food processor 1200W
+ad_4229;13.15;EUR;1003;5905575905994;Hand mixer
+ad_4230;12.64;EUR;1175;5905575905970;Hand mixer with a pull-out tray for accessories
+ad_4232;13.93;EUR;2209;5905575907516;Hand mixer – TURBO POWER
+ad_4300;40.06;EUR;1705;5905575901453;Burr coffee grinder
+ad_4404cr;46.12;EUR;243;5902934830553;Espresso machine - 15 bar
+ad_4407;11.50;EUR;2641;5902934830454;Coffee maker 0,7 L
+ad_4417;15.42;EUR;0;5905575901491;Espresso coffee maker
+ad_4419;13.29;EUR;1257;5905575901538;Espresso coffee maker
+ad_4420;5.79;EUR;0;5905575901552;Espresso coffee maker
+ad_4421;4.75;EUR;1412;5905575901576;Espresso coffee maker
+ad_4429;5.96;EUR;1909;5905575907196;Espresso coffee maker
+ad_443;7.50;EUR;2657;5901436590309;Coffee grinder
+ad_4446bg;7.32;EUR;81;5903887800464;Coffee Mill
+ad_4446bs;7.32;EUR;2692;5903887800433;Coffee Mill
+ad_4446wg;7.32;EUR;2887;5903887800440;Coffee Mill
+ad_4446ws;7.32;EUR;3645;5903887800457;Coffee Mill
+ad_4448;21.30;EUR;885;5903887806169;Burr coffee grinder
+ad_4449b;14.38;EUR;558;5903887809764;Electric Salt and Pepper Grinder - Set - 3 grinders - USB
+ad_4449w;14.38;EUR;888;5903887809788;Electric Salt and Pepper Grinder - Set - 3 grinders - USB
+ad_4449.1b;2.39;EUR;0;5903887809801; Salt and Pepper Grinder
+ad_4449.1w;2.39;EUR;0;5903887809900;Salt and Pepper Grinder
+ad_4450;35.75;EUR;937;5903887803236;Burr coffee grinder
+ad_4459;7.26;EUR;1367;5908256835412;Egg boiler for 7 eggs
+ad_4474g;6.25;EUR;209;5908256838697;Electric lunchbox - 1.1L
+ad_4474b;6.25;EUR;817;5908256838703;Electric lunchbox - 1L
+ad_4476;10.68;EUR;0;5908256839472;Yogurt Maker +7 glass jars
+ad_4478;17.77;EUR;663;5908256839533;Milk frother - heater
+ad_4479;12.97;EUR;353;5908256839557;Popcorn maker
+ad_4486;11.38;EUR;1344;5902934831451;Egg boiler for 8 eggs
+ad_4487;12.95;EUR;1335;5902934839082;Chocolate Fountain
+ad_4489;4.47;EUR;744;5902934839112;Knife sharpener AD 4489
+ad_4490;5.70;EUR;622;5902934839723;Electric wine opener
+ad_4491;1.98;EUR;413;5903887801034;Milk frother
+ad_4494b;17.22;EUR;1204;5905575901255;Milk frother black - frothing and heating (latte and cappucino)
+ad_4494d;17.22;EUR;818;5905575901279;Milk frother dark - frothing and heating (latte and cappucino)
+ad_4494;17.22;EUR;944;5903887809726;Milk frother white - frothing and heating (latte and cappucino)
+ad_4495;16.17;EUR;709;5903887809740;Milk frother - frothing and heating (latte and cappucino)
+ad_4496;55.42;EUR;471;5903887801843;Electric pasteurization pot 28L
+ad_4497;14.14;EUR;450;5903887803625;Milk frother - frothing and heating
+ad_4499;2.88;EUR;2445;5903887806053;Milk frother with a stand
+ad_4500;3.67;EUR;4409;5903887806077;Milk frother with a stand
+ad_4503;29.51;EUR;0;5903887808071;Vacuum sealer
+ad_4505b;8.36;EUR;605;5905575900395;Electric lunch box
+ad_4505g;8.36;EUR;1085;5905575900371;Electric lunch box
+ad_4506bk;4.15;EUR;2026;5905575900791;Thermal flask LED 473ml black
+ad_4506bl;4.15;EUR;3534;5905575900838;Thermal flask LED 473ml blue
+ad_4506p;4.15;EUR;2880;5905575900814;Thermal flask LED 473ml pink
+ad_4506w;4.15;EUR;3451;5905575900777;Thermal flask LED 473ml white
+ad_4508;14.35;EUR;524;5905575902368;Electric Knife Sharpener
+ad_4509;3.77;EUR;1937;5905575902900;Electric Wine Opener – set
+ad_4511;11.05;EUR;410;5905575903365;Popcorn machine
+ad_4512;10.37;EUR;711;5905575903341;Electric knife
+ad_4514;26.55;EUR;1344;5905575906038;Food vacuum air extracting set 
+ad_4514.1;7.65;EUR;929;5905575906052;Vacuum bags set
+ad_4514.2;4.64;EUR;448;5905575906076;Vacuum bags set 
+ad_4515;16.34;EUR;1041;5905575906090;Food vacuum air extracting set 
+ad_4518;9.55;EUR;1378;5905575905871;Knife sharpener electric
+ad_4521;9.77;EUR;1413;5905575906878;Electric lunch box with 5 litres thermal bag
+ad_4522b;9.92;EUR;1449;5905575906892;Electric lunch box with thermal bag 5 litres
+ad_4522g;9.92;EUR;1462;5905575906915;Electric lunch box with thermal bag 5 litres
+ad_4523;2.59;EUR;1193;5905575906953;Thermal bag - 10 L
+ad_4616;7.42;EUR;2591;5902934831291;Hand Blender
+ad_4617;10.32;EUR;2010;5908256839816;Hand blender
+ad_4617w;9.03;EUR;0;5903887801898;Hand blender
+ad_4620;10.47;EUR;4291;5903887800051;Hand blender - set
+ad_4622;5.33;EUR;3542;5902934833448;Blender hand
+ad_4625b;14.09;EUR;3006;5902934839013;Hand blender
+ad_4625w;14.09;EUR;3375;5902934838993;Hand blender
+ad_4627;13.63;EUR;0;5905575901712;Hand blender set
+ad_4628;10.17;EUR;1399;5905575902047;Hand Blender with Turbo Function and Ice Crushing
+ad_4703;20.15;EUR;652;5903887804561;Food Slicer AD 4703 
+ad_4803;33.06;EUR;45;5908256832060;Meat mincer
+ad_4808;20.90;EUR;1503;5902934830232;Meat mincer
+ad_4811;30.39;EUR;915;5902934838207;Meat mincer
+ad_4813;37.64;EUR;638;5903887803991;Meat mincer #5 with a shredder
+ad_4815;17.95;EUR;0;5905575900692;Vegetable slicer AD 4815
+ad_5015;5.02;EUR;4461;5908256832299;Iron travel 700 W 
+ad_5019;5.56;EUR;999;5908256833364;Iron non-stick soleplate 1600 W
+ad_5022;8.68;EUR;1457;5908256834293;Iron steel soleplate  Max power 3000 W
+ad_5030;10.51;EUR;1730;5902934831048;Iron ceramic soleplate 3000 W
+ad_5032;12.64;EUR;2135;5902934833776;Iron ceramic 3000 W
+ad_5042;14.35;EUR;742;5905575905673;Garment steamer
+ad_5043;17.24;EUR;2048;5905575906281;Cordless Steam Iron 
+ad_5044;15.61;EUR;1891;5905575906304;2 in 1 Garment steamer & iron 
+ad_6019;47.50;EUR;407;5908256839755;Bread maker - 15 Programs
+ad_6023;46.55;EUR;232;5905575900722;Electric oven 26L
+ad_6024;43.19;EUR;268;5905575902023;Electric oven 22L
+ad_6025;49.31;EUR;513;5905575906632;Electric oven 35L
+ad_6026;57.38;EUR;247;5905575906649;Electric oven 48L
+ad_6027;62.00;EUR;270;5905575906656;Electric oven 48L
+ad_6028;64.36;EUR;133;5905575906663;Electric oven 60L
+ad_6029;27.18;EUR;1250;5905575908094;Electric oven 14L
+ad_6205;41.19;EUR;1669;5903887801218;Oven microwave 20 L
+ad_6206;41.71;EUR;0;5905575904591;Oven microwave 20 L
+ad_6309;66.07;EUR;1683;5903887803168;Airfryer Oven 8in1 13 Liters
+ad_6310;25.41;EUR;4926;5903887803250;Airfryer 3,0 L
+ad_6312;17.54;EUR;2219;5905575904621;Airfryer Oven 2,5 liters
+ad_6314;46.94;EUR;352;5905575904065;Electric pizza oven
+ad_6315;50.04;EUR;0;5905575906328;Dual Air Fryer Oven
+ad_6316;26.39;EUR;1034;5905575907233;Air Fryer Oven with glass bowl 3L
+ad_6317;47.35;EUR;899;5906843080146;Air Fryer Oven 12 programs 5,5 liters
+ad_6318;39.85;EUR;0;5906843080153;Air Fryer 8.0 L | 9 Preset Programs | Convection Technology | LED Display |
+ad_633;17.28;EUR;87;5901436590316;Steam cooker
+ad_6406;14.60;EUR;1794;5908256835696;Rice cooker - capacity 1.5L
+ad_6413r;18.18;EUR;0;5903887809528;Slow cooker 5,8L
+ad_6413w;18.18;EUR;0;5905575901354;Slow cooker 5,8L
+ad_6415;48.60;EUR;15;5903887804066;Sous vide Slow Cooker
+ad_6418;9.78;EUR;1084;5905575901798;Rice cooker 
+ad_6420;30.31;EUR;1254;5905575902450;Multi-cooker 6 in 1 - 3,25 L
+ad_6421;25.94;EUR;1545;5905575904584;2-in-1 breakfast station
+ad_6503;7.46;EUR;5800;5908256834460;Hot Plate
+ad_6504;12.25;EUR;0;5908256834477;Hot Plate
+ad_6513;25.56;EUR;1902;5902934838856;Cooker induction
+ad_6602;13.78;EUR;290;5908256831674;Grill electric with removable heater
+ad_6610;29.24;EUR;774;5902934836982;Electric Grill
+ad_6613;21.76;EUR;373;5903887807623;Electric table grill 3000W
+ad_6614;21.76;EUR;0;5903887807647;Electric table grill 3000W
+ad_6616;22.85;EUR;0;5903887809962;Raclette - electric grill
+ad_6658;17.01;EUR;1591;5903887805582;Food Dehydrator
+ad_6660;54.20;EUR;957;5905575905598;Food dehydrator
+ad_6727;5.21;EUR;0;5905575902146;Grill Utensil Set - Stainless Steel with Carrying Case
+ad_6728;3.95;EUR;0;5905575902160;Grill cutlery – set
+ad_6729;7.04;EUR;0;5905575902184;Grill Utensil Set – In an Aluminum Case
+ad_6730;4.45;EUR;30;5905575902207;Grill cutlery – set
+ad_7011.1;1.90;EUR;242;5908256833487;Vacuum cleaner/Bag set for AD 7011
+ad_7018_1;1.90;EUR;2723;5902934830560;Rotable mop/Map Refill for AD 7018
+ad_7036;19.43;EUR;1859;5902934831178;Handheld Vacuum - 1,5L dust cont.
+ad_7036.1;4.60;EUR;485;5902934831420;Set of 5 EPA F8 filters for vacuum cleaner AD 7036
+ad_7036w;19.43;EUR;1955;5905575905932;Handheld Vacuum - 1,5L dust cont.
+ad_7038;19.87;EUR;0;5903887803588;Steam Cleaner
+ad_7038.1;1.07;EUR;98;5903887803847;Spare mop pad sets for AD7038.1
+ad_7038.2;2.18;EUR;469;5905575904898;Spare cloths 5x small cloth
+ad_7038.3;1.19;EUR;447;5905575904911;Spare cloths 5x large cloth
+ad_7040.1;2.81;EUR;350;5902934836791;Vacuum cleaner/filter for AD 7040
+ad_7041;53.82;EUR;0;5902934835282;Super silent vacuum cleaner
+ad_7041.2;2.71;EUR;313;5902934836159;Filter Set for Vacuum AD 7041
+ad_7044;47.78;EUR;692;5902934837088;Handheld bagless vacuum cleaner
+ad_7044.1;2.95;EUR;1121;5902934838191;Filter HEPA H11  for AD 7044, AD 7048
+ad_7044.2;22.51;EUR;268;5903887800198;Battery
+ad_7048;53.41;EUR;2133;5903887809580;Bagless vacuum cleaner with brushless motor technology
+ad_7048.1;23.51;EUR;145;5903887809603;Battery
+ad_7049;17.25;EUR;1249;5903887809924;2-in-1 handheld bagless vacuum cleaner
+ad_7049.1;1.30;EUR;0;5903887809948;HEPA 11 filter 4 piece set for AD 7049
+ad_7050;14.82;EUR;3034;5905575900241;Steam Cleaner
+ad_7050.1;0.58;EUR;167;5905575900265;Replacement cloths AD 7050.1
+ad_7051;45.12;EUR;3250;5905575901293;Cordless Vacuum cleaner
+ad_7051.1;21.59;EUR;185;5905575901316;Batery AD 7051.1
+ad_7051.2;2.11;EUR;0;5905575901330;Filter set AD 7051.2
+ad_7052;48.98;EUR;2507;5905575902696;Rotary steam mop
+ad_7052.1;1.92;EUR;1084;5905575902962;Round steam mop inserts and a small fabric cover AD 7052
+ad_7054;48.42;EUR;797;5905575905031;Bag vacuum cleaner allergy-friendly Classic AD 7054
+ad_7054.1;1.85;EUR;179;Nonead_7054.1;Spare filter for Ad 7054
+ad_7057;26.41;EUR;1209;5905575905710;Steam mop
+ad_7057.1;2.13;EUR;225;5905575905734;AD 7057 mop insert
+ad_7059;11.09;EUR;1667;5905575905574;Car vacuum cleaner - USB C / 12 V
+ad_7061;74.98;EUR;1477;5905575905093;Allergy-friendly Cordless upright vacuum PRO 
+ad_7061.1;2.50;EUR;116;5905575905116;Spare filter for AD 7061
+ad_7061.2;22.75;EUR;153;5905575905918;Spare battery AD 7061
+ad_7064;84.31;EUR;0;5905575905130;2in1 Dry & Wet hard flood carry cordless Vacuum Cleaner
+ad_7064.1;1.05;EUR;299;5905575905154;EPA 12 filter for AD 7064
+ad_7064.2;1.72;EUR;199;5905575905178;Mop Pads for Vacuum Cleaner with Mopping Function – Set of 2
+ad_7065;48.57;EUR;927;5905575905635;Bagless cyclone vacuum cleaner
+ad_7065.1;2.95;EUR;164;5905575905659;Vacuum cleaner filter set for AD 7065
+ad_7065.2;4.88;EUR;0;5905575906168;TURBO brush
+ad_7068;21.58;EUR;1057;5905575907011;Steam mop
+ad_7068.1;1.62;EUR;281;5905575907158;Mop Pads AD 7068.1
+ad_7069;47.74;EUR;1076;5905575907035;Digitally controlled vacuum cleaner with bag
+ad_7069.1;1.28;EUR;13;5905575907059;AD 7069.1 Reusable fabric bag
+ad_7069.2;2.40;EUR;86;5905575907073;AD 7069.2 Filter Set
+ad_7069.3;2.77;EUR;41;5905575907097;Mini turbo brush AD7069.3
+ad_7069.4;2.77;EUR;39;5905575907110;Parquet brush with natural bristles AD 7069.4
+ad_7069.5;5.50;EUR;42;5905575907134;Large turbo brush AD 7069.5
+ad_7072;47.58;EUR;1278;5905575908308;Universal steam mop 2in1
+ad_7072.1;2.38;EUR;288;5905575908322;Spare mop covers AD 7072.1 2 pieces
+ad_7301;3.92;EUR;0;5901436590866;Fan 15 cm - desk
+ad_7302;6.41;EUR;0;5908256830769;Fan 23 cm - desk
+ad_7303;10.15;EUR;0;5908256830776;Fan 30 cm - desk
+ad_7304;12.83;EUR;0;5908256830783;Fan 40 cm - desk
+ad_7305;10.11;EUR;0;5908256830790;Fan 40 cm - stand
+ad_7317;4.73;EUR;3744;5902934830270;Fan 15 cm with clip and base
+ad_7323b;15.26;EUR;0;5902934839570;Fan 40 cm - stand
+ad_7323w;15.26;EUR;0;5902934839556;Fan 40 cm - stand
+ad_7324;16.91;EUR;0;5903887803960;Loft Fan 17.5cm / 6.6"
+ad_7326;18.26;EUR;0;5903887804134;Desk Loft fan 15cm / 6"
+ad_7328;24.13;EUR;0;5903887804158;Fan 40cm/16" - stand with remote control
+ad_7331b;3.99;EUR;0;5903887804103;Portable Mini Fan 9cm/3,5” USB
+ad_7331w;3.99;EUR;0;5903887804080;Portable Mini Fan 9cm/3,5” USB
+ad_7333;29.07;EUR;0;5903887805230;Fan Tower 109cm / 43”
+ad_7336;1.69;EUR;1590;5905575908148;Foldable mini fan
+ad_7338;3.16;EUR;2956;5905575908186;Mini USB fan
+ad_7403;9.99;EUR;142;5907633494792;Electric heating pad - grey color
+ad_7412;16.39;EUR;505;5903887801782;Blanket heating - pad
+ad_7415;7.61;EUR;96;5902934830706;Blanket heating - pad
+ad_7425;11.76;EUR;0;5902934832816;Electirc heating under-blanket (1)
+ad_7426;21.24;EUR;153;5902934832540;Electirc heating under-blanket (2)
+ad_7427;7.00;EUR;7681;5902934833967;Electric Hot water bottle warmer
+ad_7432;13.44;EUR;0;5902934837293;Feet warmer with LCD controller
+ad_7433;7.88;EUR;0;5903887801805;Blanket heating - pad
+ad_7437;14.37;EUR;394;5905575900227;Heating belt on the loins
+ad_7439;7.68;EUR;356;5905575901095;Electric hot water bottle
+ad_7702;8.92;EUR;0;5908256831827;Heater fan - ceramic
+ad_7709;5.44;EUR;0;5908256839861;Heater quartz
+ad_7714;23.36;EUR;2175;5902934831727;Heater air curtain
+ad_7725b;7.32;EUR;5409;5903887801324;Heater fan
+ad_7725w;7.32;EUR;2522;5903887801300;Heater fan
+ad_7726;7.97;EUR;0;5903887805889;Thermofan  - Easy Heater
+ad_7727;17.39;EUR;457;5903887805865;Ceramic Heater LCD with remote control
+ad_7728;6.14;EUR;0;5903887801461;Thermo fan heater
+ad_7730;51.30;EUR;185;5903887806183;Tower fan heater LCD with humidifier 75cm / 29"
+ad_7731;26.41;EUR;0;5903887801423;Ceramic fan heat tower LCD + Remote control + Timer
+ad_7738;19.92;EUR;0;5903887807340;Tower fan ceramic heater  LED + Timer
+ad_7740;19.76;EUR;501;5903887806961;Ceramic fan heater 3000W
+ad_7742;13.78;EUR;1590;5903887806831;Ceramic fan heater 1500W
+ad_7746;11.31;EUR;1781;5905575900029;Ceramic fan heater
+ad_7749;7.88;EUR;0;5905575900005;Thermofan  - Easy Heater
+ad_7750;28.40;EUR;613;5905575900418;Convector heater
+ad_7751;21.94;EUR;4374;5905575903266;LED air curtain
+ad_7752;35.72;EUR;796;5905575903860;Convection fan heater LCD with remote control
+ad_7815;19.48;EUR;0;5903887805902;Oil-filled radiator 7 ribs
+ad_7816;22.52;EUR;0;5903887805919;Oil-filled radiator 9 ribs
+ad_7817;25.98;EUR;0;5903887805926;Oil-filled radiator 11 ribs
+ad_7818;26.68;EUR;0;5903887805988;Oil-filled radiator 13 ribs
+ad_7819;32.96;EUR;0;5903887805933;Oil-filled radiator 15 ribs
+ad_7821;31.44;EUR;1140;5903887809641;Foldable electric clothes drying rack
+ad_7823;50.82;EUR;910;5905575903181;LED electric bathroom radiator
+ad_7824;61.45;EUR;874;5905575903198;LED electric bathroom radiator
+ad_7826;39.81;EUR;0;5905575903204;Oil-filled LED radiator with remote control 13 ribs
+ad_7852;129.11;EUR;0;5903887803977;Air conditioner 7000BTU
+ad_7855;47.98;EUR;0;5903887804585;Tower Air Cooler 2L 3in1
+ad_7857;31.50;EUR;0;5903887804172;Fan Tower 96cm / 38"
+ad_7859;39.36;EUR;0;5903887805223;Tower Air cooler 3 in 1
+ad_7860;35.06;EUR;0;5903887808507;Thermo-electric dehumidifier
+ad_7861;55.10;EUR;1511;5903887809498;Compressor air dehumidifier 10L/24h LCD
+ad_7861.1;1.37;EUR;164;5903887809504;Air filter for AD7861
+ad_7863;103.96;EUR;266;5905575904041;2-in1 Air Dehumidifier & Air purifier LED (compressor)
+ad_7863.1;4.93;EUR;0;5905575904447;HEPA air filter
+ad_7863.2;0.90;EUR;0;5905575904461;Activated carbon air filter
+ad_7863.3;1.27;EUR;0;5905575904485;PP air filter
+ad_7864;197.70;EUR;473;5905575907653;Industrial compressor air dehumidifier 50L - 24h
+ad_7909;147.86;EUR;0;5902934831192;Air conditioner 7000 BTU
+ad_7913;48.78;EUR;0;5902934835022;Air cooler 3in1 12L
+ad_7915;36.96;EUR;0;5902934835046;Air cooler 7L 3 in 1 with remote controller
+ad_7916;169.29;EUR;0;5902934835497;Air conditioner 9000 BTU
+ad_7917;52.92;EUR;576;5902934838665;Air Dehumidifier (compressor)
+ad_7919;7.90;EUR;0;5902934839358;Air Cooler 3in1 USB/4xAA 1,5V
+ad_7921;32.25;EUR;0;5902934839334;Air cooler 3 in 1
+ad_7922;52.63;EUR;0;5902934839396;Air cooler 3 in 1
+ad_7924;109.41;EUR;0;5902934839389;Air conditioner 5000 BTU
+ad_7925;201.02;EUR;0;5902934839488;Air conditioner 12.000 BTU
+ad_7939;11.90;EUR;0;5903887806909;Mosquito killer lamp UV
+ad_7940;12.26;EUR;1986;5905575906670;Insects killer lamp LED
+ad_7954;15.91;EUR;0;5908256834156;Air humidifier
+ad_7957;18.59;EUR;0;5902934830898;Air humidifier
+ad_7961.1;8.55;EUR;630;5902934830621;Hepa filter for AD 7961
+ad_7963.1;1.16;EUR;87;5902934836012;Filter for air humidifier AD7963
+ad_7966;26.74;EUR;0;5903887801850;Air Humidifier
+ad_7967;14.92;EUR;905;5903887809290;Ultrasonic aroma diffuser 3in1
+ad_7968;8.01;EUR;2140;5903887809337;USB 3in1 ultrasonic aroma diffuser
+ad_7969;9.18;EUR;3013;5903887809313;USB 3in1 ultrasonic aroma diffuser
+ad_7972b;29.45;EUR;613;5905575900425;Ultrasonic Humidifier
+ad_7972w;29.45;EUR;310;5905575900449;Ultrasonic Humidifier
+ad_7972.1;3.06;EUR;261;5905575900593;Air humidifier filter
+ad_8051;33.56;EUR;0;5908256835788;Washing machine + spinning
+ad_8055;33.56;EUR;0;5902934835749;Washing machine + spinning
+ad_8078;36.77;EUR;1004;5902934839860;Portable cooler 28 L
+ad_8080;279.86;EUR;105;5903887804875;Wine cooler 60L Dual cooling zone
+ad_8081;149.40;EUR;267;5903887805193;Portable refrigerator 40L with compressor
+ad_8083;81.23;EUR;21;5905575900623;Beverage pantry - 33 L capacity
+ad_8084;22.80;EUR;821;5903887809092;Mini fridge - 4L
+ad_8084p;22.80;EUR;1119;5905575901231;Mini fridge - 4L
+ad_8085;24.25;EUR;1198;5903887809078;Mini fridge - w/ mirror - 4L
+ad_8086;58.62;EUR;16;5905575900661;Ice Maker
+ad_8088;89.47;EUR;0;5905575905611;Thermoelecric cooler AD 8088
+ad_8089;86.03;EUR;98;5905575905772;Thermoelecric cooler - 28 L
+ad_8090;59.38;EUR;391;5905575906366;Portable cooler 40 L
+ad_8091;35.67;EUR;0;5905575906373;Portable cooler 25L
+ad_8092;52.92;EUR;0;5905575906380;Portable cooler 40L
+ad_8094;31.59;EUR;627;5905575906830;Portable cooler 22L
+ad_8121;4.89;EUR;2007;5908256830509;Bathroom scale
+ad_8122;4.74;EUR;2312;5908256830516;Bathroom scale
+ad_8139;13.47;EUR;3474;5908256838352;Baby scale
+ad_8151b;5.23;EUR;2479;5908256839069;Mechanical bathroom scale
+ad_8151w;5.23;EUR;1690;5902934838641;Mechanical bathroom scale
+ad_8154;5.02;EUR;738;5902934836135;Bathroom scale with analyzer
+ad_8157;5.80;EUR;0;5908256838512;Bathroom scale
+ad_8157w;5.18;EUR;1509;5902934839778;Bathroom scale
+ad_8164;8.09;EUR;686;5902934830850;Bathroom scale 
+ad_8165;11.36;EUR;4037;5902934838702;Bathroom scale with analyzer - 225KG
+ad_8169;9.41;EUR;305;5903887803298;Bathroom scale -  180 kg
+ad_8170;8.35;EUR;1394;5903887803311;Bathroom scale - 180 kg
+ad_8172b;11.26;EUR;579;5903887804189;Bathroom scale - 180kg
+ad_8172w;11.26;EUR;1440;5903887804202;Bathroom scale - 180kg
+ad_8173;7.22;EUR;1057;5903887805155;Bathroom bamboo scale
+ad_8174w;6.64;EUR;3409;5903887804653;Bathroom scale - LED display
+ad_8176;7.41;EUR;4105;5903887804691;Bathroom scale - LED display
+ad_8177;16.43;EUR;2009;5903887806886;Mechanical bathroom scale
+ad_8178;8.22;EUR;341;5903887806862;Mechanical bathroom scale
+ad_8179w;7.19;EUR;0;5905575900579;Mechanical bathroom scale
+ad_8180;10.07;EUR;0;5903887807562;Mechanical bathroom scale
+ad_8182;10.34;EUR;681;5905575902283;Bathroom scale with projector
+ad_8183;7.97;EUR;624;5905575902269;Bathroom scale - 180kg - w/ blue backlight of the edges
+ad_8186b;7.60;EUR;1010;5905575903440;Smart bathroom scale - Tuya 
+ad_8186w;7.60;EUR;889;5905575903426;Smart bathroom scale - Tuya 
+ad_8187b;12.72;EUR;775;5905575903822;Smart bathroom scale
+ad_8187w;12.72;EUR;756;5905575903846;Smart bathroom scale
+ad_8188;4.73;EUR;596;5905575903464;Bathroom scale 
+ad_8189;1.66;EUR;651;5905575903747;Travel Luggage Scale
+ad_8190;2.35;EUR;424;5905575903761;Travel Luggage Scale
+ad_8191;2.33;EUR;0;5905575903785;Travel Luggage Scale
+ad_8192;8.53;EUR;1786;5905575906243;Bathroom scale - 180kg - brushed
+ad_9615;2.77;EUR;3626;5902934836296;Lint remover
+ad_9616;2.70;EUR;2410;5902934836319;Lint remover
+ad_9617;9.03;EUR;665;5905575900333;Lint remover LCD
+ad_9618;8.90;EUR;312;5905575902306;Lint remover LCD
+ad_9619;9.22;EUR;48;5905575902320;Lint remover LCD
+ad_9621;4.85;EUR;1322;5905575905758;Lint remover - USB
+ad_9622b;13.06;EUR;1010;5905575906717;Lint remover LCD
+ad_9622w;13.06;EUR;1019;5905575906694;Lint remover LCD
+ad_2940;18.91;EUR;1196;5903887807890;Travel shaver 3 in 1
+cr_1035;45.38;EUR;183;5903887807692;20L portable toilet
+cr_105;3.52;EUR;1973;5907633494129;Steam mop - pads
+cr_1113;33.03;EUR;896;5908256831896;Turntable with radio
+cr_1113.1;1.38;EUR;1418;5902934830775;Head and ceramic needle for CR 1113, CR1168  and CR 1114
+cr_1113.2;1.33;EUR;642;5902934830782;Cearamic Needle for CR 1113, CR1168  and CR 1114
+cr_1113.3;1.66;EUR;0;5903887801485;Needle for CR 1113, CR1168  and CR 1114 with a ruby tip (Tip)
+cr_1139p;6.65;EUR;75;5908256837058;Audio/Speaker Bluetooth
+cr_1140b;8.99;EUR;0;5908256837010;Radio
+cr_1140r;8.99;EUR;2861;5908256837027;Radio
+cr_1150b;3.51;EUR;952;5903887807951;Alarmclock
+cr_1150w;3.51;EUR;380;5903887807975;Alarmclock 
+cr_1153;9.04;EUR;0;5902934830355;Radio digital 
+cr_1156;9.85;EUR;420;5908256838857;Alarmclock radio
+cr_1165;13.54;EUR;32;5902934831482;Compact bluetooth radio
+cr_1166;10.25;EUR;0;5902934831499;Weather station
+cr_1168;38.14;EUR;485;5902934833899;Turntable with Bluetooth/ MP3/ USB/ SD/ recording
+cr_1173;36.72;EUR;1274;5902934837620;Mini Hi-Fi tower with Bluetooth
+cr_1178;15.98;EUR;0;5902934836814;Bluetooth Headphones
+cr_1179;15.89;EUR;0;5902934837026;DAB/DAB+/FM radio
+cr_1180;29.26;EUR;0;5902934838368;Internet radio
+cr_1182;65.46;EUR;806;5902934839129;Radio Retro
+cr_1183;21.65;EUR;2138;5902934839143;Bluetooth Radio
+cr_1188;37.43;EUR;861;5903887800099;Retro Radio
+cr_1251w;8.45;EUR;3005;5908256836815;Kettle glass 1,7 L
+cr_1253;13.29;EUR;985;5908256837201;Kettle metal 1,7 L with temp. regul. and color changer
+cr_1254w;6.05;EUR;2215;5902934830935;Kettle plastic 1,7 L
+cr_1255b;6.26;EUR;4540;5908256839779;Kettle plastic 1,7 L
+cr_1255w;6.26;EUR;2909;5908256839786;Kettle plastic 1,7 L
+cr_1259;37.74;EUR;930;5908256838475;Boiler 20 L
+cr_1265;8.04;EUR;3498;5908256839243;Kettle plastic 0,5 L - silicon travel
+cr_1267;35.62;EUR;251;5908256839236;Boiler 8,8 L
+cr_1269b;14.15;EUR;0;5908256839731;Kettle plastic 1,7 L
+cr_1278;8.25;EUR;2508;5902934831215;Kettle metal 1,2 L
+cr_1290;12.03;EUR;1599;5902934835770;Kettle glass 2,0 l - with temp. control  and  tea infuser
+cr_1291;14.04;EUR;2687;5902934838306;Stainless Steel 1,7L kettle with LCD display & temp. regulation
+cr_1300;9.03;EUR;4181;5903887803892;Kettle 1,7 L
+cr_1342;21.60;EUR;767;5903887805070;Kettle metal 1,7 L STRIX
+cr_1344b;13.12;EUR;567;5903887807005;Electric kettle with a thermometer 1,7L
+cr_1344c;13.12;EUR;513;5903887807029;Electric kettle with a thermometer 1,7L
+cr_1344w;13.12;EUR;168;5903887806985;Electric kettle with a thermometer 1,7L
+cr_1901;25.18;EUR;477;5905575902405; Wireless Speakers - Bluetooth
+cr_1902b;11.94;EUR;276;5905575903884;Radio FM with Bluetooth 
+cr_1902w;11.94;EUR;673;5905575903907;Radio FM with Bluetooth
+cr_1905;11.22;EUR;999;5905575905550;Portable mini radio USB
+cr_2021;10.46;EUR;3821;5908256839670;Rotating hair dryer brush - 1200W - 38mm, 50mm
+cr_2024;15.90;EUR;2796;5902934833806;Hair Styler Set 5-in-1
+cr_2025;7.22;EUR;2122;5902934839631;Hair styler
+cr_2156.1;1.08;EUR;742;5902934830652;Callus remover/Rolls for CR 2156
+cr_2158.1;0.29;EUR;13859;5908256836921;Toothbrush set for CR 2158
+cr_2169;5.89;EUR;1572;5902934832205;LED Bathroom Mirror
+cr_2173;17.64;EUR;22;5902934837309;Sonic toothbrush - 48.000vpm
+cr_2173.1;2.18;EUR;0;5902934837323;Replacement heads
+cr_2174;17.77;EUR;1789;5902934837606;Foot massager foldable
+cr_2253;8.47;EUR;565;5902934839785;Hair dryer 2400W + diffuser
+cr_2254;4.54;EUR;2471;5902934839594;Hair dryer 1200W
+cr_2255;9.11;EUR;949;5902934834728;Hair dryer 2200W + diffuser 
+cr_2257;4.47;EUR;0;5902934835718;Hair dryer 1400W
+cr_2261;4.80;EUR;2224;5903887801225;Hair dryer 1200W
+cr_2268;11.21;EUR;359;5905575900630;Hair dryer 1800W ION + Diffuser
+cr_2320;16.89;EUR;209;5902934837668;Professional hair straightener - with ION
+cr_2322;8.20;EUR;0;5903887804042;Professional hair straightener - ceramic - tourmaline
+cr_2323;14.80;EUR;21;5903887803212;Hair crimper
+cr_2821;13.49;EUR;0;5908256835085;Hair clipper for pets - USB
+cr_2821_1;3.23;EUR;3949;5902934830584;Hair clippers head to Camry CR2821,Adler AD2823, Mesko MS2826
+cr_2833;8.73;EUR;1805;5902934834940;Vacuum beard trimmer
+cr_2835g;20.78;EUR;1115;5903887805483;Premium metallic hair clipper with LCD
+cr_2835s;20.78;EUR;53;5903887805469;Premium metallic hair clipper with LCD
+cr_2835.1;6.14;EUR;108;5903887805506;Metal blade for CR 2835 Silver and CR2835 Gold
+cr_2841;13.25;EUR;1250;5905575901736;Hair clipper LCD
+cr_2844;14.83;EUR;1336;5905575902108;Hair clipper CR 2844
+cr_2844.1;2.04;EUR;0;5905575902122;Blade for CR 2844
+cr_2915;10.16;EUR;2242;5908256834170;Shaver for men
+cr_2921;8.59;EUR;2516;5902934830539;Trimmer 5 in 1
+cr_2925;13.26;EUR;839;5902934835664;Electric Shaver
+cr_2925.1;1.97;EUR;0;5902934839693;Head for CR 2925
+cr_2927;10.93;EUR;0;5902934838436;Mens shawer
+cr_2927.1;2.14;EUR;171;5902934838450;Head for CR 2927
+cr_2935;6.20;EUR;2324;5903887805735;Multi function trimmer set
+cr_2938;7.02;EUR;1787;5903887807104;Travel Shaver 2 heads
+cr_2938.1;1.93;EUR;240;5903887807166;Head for CR 2938
+cr_3018;9.46;EUR;3303;5908256834002;Sandwich maker
+cr_3019;11.70;EUR;1460;5908256834019;Waffle maker 700 W
+cr_3022;11.97;EUR;579;5908256834811;Waffle maker 1000 W
+cr_3023;15.30;EUR;1388;5908256834873;Sandwich maker XL
+cr_3025;18.03;EUR;3768;5908256834897;Waffle maker 1500 W
+cr_3042;19.32;EUR;0;5902934834414;Multifunctional Backing Device 5in1
+cr_3044;14.48;EUR;498;5902934835435;Electric Grill
+cr_3046;12.66;EUR;4937;5902934835602;Waffle maker 1600W
+cr_3053;20.13;EUR;2900;5903887801973;Electric  grill 
+cr_3054;11.71;EUR;4398;5903887801997;Sandwich Maker XL
+cr_3057;20.75;EUR;911;5903887803083;Sandwich maker 6 in 1
+cr_3082;12.00;EUR;1061;5905575904874;Wafer maker/cone maker
+cr_3175;6.82;EUR;149;5903887805698;Kitchen scale - 15kg - touchless tare - big size
+cr_3215;14.16;EUR;1303;5902934838320;Toaster 2 slice
+cr_3218;9.93;EUR;2706;5903887800150;Toaster 2 slice
+cr_3219;10.17;EUR;1829;5903887800136;Toaster 2 slice
+cr_4006;23.09;EUR;0;5902934830287;Profesional Citruis Juicer
+cr_4011;122.10;EUR;0;5903887804837;Oil Press
+cr_4069;15.90;EUR;589;5908256838864;Blender personal
+cr_4069i;16.48;EUR;25;5905575901170;Personal blender
+cr_4071;30.12;EUR;531;5908256839427;Blender personal - POWERFUL NUTRI 
+cr_4077;17.92;EUR;821;5902934834391;Blender
+cr_4088;32.78;EUR;809;5905575905475;Table blender - titanium blades - 1.5L glass jug
+cr_4089;32.43;EUR;924;5905575902634;Blender - 23000rpm - 1,7l jar - 3 programs
+cr_4213;18.43;EUR;5812;5902934833912;Mixer with a bowl 600W
+cr_4218;11.38;EUR;2067;5902934838979;Mixer
+cr_4220b;10.36;EUR;3299;5903887801935;Hand mixer
+cr_4220w;10.36;EUR;3135;5903887801911;Hand mixer
+cr_4223;51.25;EUR;0;5903887803076;LCD Planetary food processor 2000W 5L
+cr_4302;8.53;EUR;1120;5905575907455;Cordless USB Electric Coffee Grinder
+cr_4410;49.41;EUR;0;5902934837644;Pressure coffee machine 
+cr_4414bb;56.57;EUR;905;5905575904669;Multi-capsule espresso machine
+cr_4414;54.79;EUR;3001;5903887805629;Multi-capsule espresso machine
+cr_4415b;15.31;EUR;2032;5903887809115;Electric Moka pot
+cr_4415w;15.31;EUR;1473;5903887809139;Electric Moka pot
+cr_4415.1;0.67;EUR;194;5903887809153;Spare filter and gasket for the Moka CR 4415 coffee maker.
+cr_4443;39.14;EUR;299;5902934837484;Conical Burr Coffee grinder
+cr_4457;14.54;EUR;404;5908256833890;Chocolate Fountain
+cr_4458;9.58;EUR;860;5908256834118;Popcorn maker
+cr_4469;9.43;EUR;2903;5908256837607;Knife sharpener electric
+cr_4470;31.03;EUR;0;5908256838222;Vacuum sealer
+cr_4470.1;6.27;EUR;1729;5908256838307;Vacumm sealer rools for CR 4470 and AD 4484 + MS 4492 + AD 4503
+cr_4470.2;2.08;EUR;10816;5905575901194;Vacumm sealer rools for CR 4470 and AD 4484 + MS 4492 + AD 4503
+cr_4470.3;2.27;EUR;9653;5905575901200;Vacumm sealer rools for CR 4470 and AD 4484 + MS 4492 + AD 4503
+cr_4480;12.16;EUR;1000;5908256839564;Popcorn maker
+cr_4481;55.47;EUR;157;5908256839885;Ice cream maker - capacity 0,7l
+cr_4483;7.57;EUR;1102;5902934830461;Electric lunchbox DC12V & AC220-240V
+cr_4488;24.01;EUR;1929;5902934838757;Chocolate Fountain
+cr_4498;29.23;EUR;428;5903887803861;Milk frother - frothing and heating
+cr_4501b;2.63;EUR;3655;5903887806121;Milk frother with whisk attachment and a stand
+cr_4501r;2.63;EUR;1991;5903887809849;Milk frother with whisk attachment and a stand
+cr_4507bk;4.15;EUR;750;5905575900852;Thermal flask LED 473ml black
+cr_4510;5.22;EUR;280;5905575902610;Electric Wine Opener - set
+cr_4513;16.51;EUR;1308;5905575903402;Electric knife - 2 Sets of Knives
+cr_4517;9.54;EUR;1245;5905575903808;Electric lunch box heated - BIG SET - metal container + cutlery set + travel bag
+cr_4519;11.93;EUR;212;5905575905451;Yogurt Maker
+cr_4524;1.73;EUR;1213;5905575906939;Thermal bag - 5L
+cr_4615;16.83;EUR;432;5902934830515;Blender hand SMOOTHIE
+cr_4621;10.12;EUR;57;5903887806145;Hand blender - mini set 2 w 1
+cr_4623;39.88;EUR;854;5902934833950;Blender hand 1600W set
+cr_4630;11.28;EUR;1281;5905575904850;Hand blender - set
+cr_4702;33.34;EUR;313;5908256835177;Food slicer - adjustment (0-15mm)
+cr_4802;33.35;EUR;538;5908256830226;Meat mincer
+cr_4812;34.96;EUR;180;5903887800341;Meat mincer
+cr_4816;19.34;EUR;566;5905575904997;Vegetable slicer CR 4816
+cr_5018;12.78;EUR;2022;5902934830324;Iron ceramic 3000 W
+cr_5024;6.95;EUR;883;5908256835542;Iron travel 1500W steam
+cr_5029;11.63;EUR;1346;5908256839373;Iron ceramic soleplate 3000 W
+cr_5033;15.01;EUR;2649;5902934835800;Garment Steamer
+cr_5036;13.13;EUR;2688;5903887807715;Steam iron  3400W
+cr_5040;7.62;EUR;1415;5905575902498;Steam travel iron
+cr_6311;38.95;EUR;0;5903887803267;Air Fryer Oven 9 programs 5 liters
+cr_6313;29.45;EUR;670;5905575904683;Airfryer Oven 12 programs 5 liters
+cr_6409;46.21;EUR;255;5902934833738;Pressure Cooker
+cr_6414;23.29;EUR;0;5903887809375;Slow cooker 4,7L LED
+cr_6419;11.19;EUR;3315;5905575901811;Rice cooker
+cr_6505;25.12;EUR;0;5908256833876;Cooker induction
+cr_6510;8.10;EUR;0;5908256839090;Cooker one-burner 
+cr_6511;12.70;EUR;1194;5908256839083;Cooker two-burner 
+cr_6514;62.71;EUR;143;5903887805322;Cooker induction two-burner
+cr_6515;25.83;EUR;91;5903887809399;Cooker induction
+cr_6606;11.81;EUR;81;5908256835320;Grill raclette
+cr_6659;18.09;EUR;1296;5903887805605;Food Dehydrator
+cr_7021;13.02;EUR;1220;5908256835153;Steam cleaner
+cr_7029.1;3.44;EUR;392;5908256838215;Car brushes 
+cr_7037.1;2.55;EUR;432;5901362005717;Set of 4 dust bags For CR 7037, AD7041 AD7007
+cr_7037.2;0.40;EUR;1739;5902934831260;Hepa and outlet filter set for CR7037
+cr_7039.1;2.76;EUR;390;5902934837569;Filter set for CR 7039
+cr_7045;59.71;EUR;700;5902934839907;Professional industrial vacuum cleaner with tool socket
+cr_7045.1;5.54;EUR;431;5901362007216;Non woven bag set 5 pcs.
+cr_7045.2;2.52;EUR;63;5902934839938;Plastic hose
+cr_7045.3;0.63;EUR;113;5902934839952;Sponge filter 
+cr_7045.4;2.82;EUR;7;5902934839976;HEPA filter
+cr_7045.5;2.90;EUR;18;5902934839990;Cotton filter
+cr_7045.6;2.22;EUR;88;5903887800013;Professional floor brush
+cr_7045.7;2.22;EUR;68;5903887800037;Universal floor brush
+cr_7045.8;0.67;EUR;65;5903887800365;Air outlet filter
+cr_7045.9;1.04;EUR;64;5903887800389;Construction gasket
+cr_7046;25.35;EUR;1267;5903887802055;Bagless vacuum cleaner CR 7046
+cr_7046.1;1.56;EUR;328;5903887803175;HEPA H12 Filter for CR 7046
+cr_7063;94.86;EUR;401;5905575905192;CR 7063  Efficient vacuum cleaner for a large house PRO
+cr_7063.1;1.45;EUR;109;5905575905215;Spare Hepa Filert AD 7063.1
+cr_7063.2;22.60;EUR;28;5905575905239;Spare battery for AD 7063
+cr_7063.3;6.91;EUR;0;5905575905253;Vacuum cleaner stand and accessories CR 7063
+cr_7063.4;3.33;EUR;33;5905575905277;SOFT ROLLER FOR CR 7063
+cr_7306;24.36;EUR;0;5908256831490;Fan 45 cm - velocity fan
+cr_7307;35.91;EUR;0;5908256831506;Stand Fan 45 cm - velocity 
+cr_7314;32.78;EUR;0;5908256835306;Fan 45 cm - metal with remote control
+cr_7320;32.57;EUR;0;5902934835343;Fan Tower 107cm / 42"
+cr_7329;45.46;EUR;200;5903887804165;Tripod Loft fan 40cm / 16”
+cr_7416;14.21;EUR;0;5902934832465;Electirc heating under-blanket with timer (1)
+cr_7417;23.21;EUR;133;5902934832489;Electirc heating under-blanket with timer (2)
+cr_7418;23.86;EUR;0;5902934832649;Electirc heating throw-blanket with timer (1) SUPER SOFT
+cr_7421;30.13;EUR;0;5902934832601;Electirc heating under-blanket with timer (2)
+cr_7422;17.48;EUR;228;5902934832625;Electirc heating under-blanket with timer (1)
+cr_7423;13.97;EUR;324;5902934832502;Electirc heating under-blanket with timer (1)
+cr_7424;23.42;EUR;213;5902934832526;Electirc heating under-blanket with timer (2)
+cr_7428;10.91;EUR;900;5902934837118;Electric heating pad - grey color
+cr_7431;29.17;EUR;0;5903887801195;Heated den for animals
+cr_7434;23.86;EUR;0;5903887806343;Electirc heating throw-blanket with timer (1) SUPER SOFT
+cr_7435;14.73;EUR;0;5903887807364;Electirc heating under-blanket with timer (1)
+cr_7436;25.89;EUR;336;5903887807388;Electirc heating under-blanket with timer (2)
+cr_7441;25.97;EUR;270;5905575903549;Electirc heating throw-blanket with timer (1)  SUPER SOFT
+cr_7442;23.70;EUR;0;5905575903563;Electirc heating throw-blanket with timer (1) SUPER SOFT
+cr_7715;9.25;EUR;0;5902934831789;Heater - Easy Heater
+cr_7721;33.36;EUR;30;5902934837408;Convection glass heater LCD with remote control
+cr_7722;48.87;EUR;0;5902934837194;Ceramic fan heat tower LCD + Remote control + Timer 
+cr_7732;15.11;EUR;227;5903887801430;Ceramic heater with LED
+cr_7737;31.35;EUR;600;5903887805360;Patio heater - standing
+cr_7739;26.03;EUR;0;5903887806947;Convection fan heater LCD with remote control
+cr_7743;16.05;EUR;0;5903887806473;Ceramic fan heater 2400W
+cr_7745;34.69;EUR;0;5903887809986;Ceramic fan heat tower LCD + Remote control + Timer
+cr_7747;21.47;EUR;743;5905575900043;Bathroom heater
+cr_7810;29.12;EUR;0;5902934836838;Oil-filled LED radiator with remote control 9 ribs
+cr_7812;24.05;EUR;0;5903887801270;Oil-filled LED radiator with remote control 7 ribs
+cr_7813;33.65;EUR;0;5903887801287;Oil-filled LED radiator with remote control 11 ribs
+cr_7814;35.14;EUR;0;5903887801294;Oil-filled LED radiator with remote control 13 ribs
+cr_7851;64.03;EUR;945;5903887802192;Air Dehumidifier LED (compressor)
+cr_7851.1;0.78;EUR;194;5903887802208;Carbon air filter for CR7851 and AD7917
+cr_7851.2;1.15;EUR;45;5903887802222;PP air filter for CR 7851 and AD 7917
+cr_7853;153.90;EUR;0;5903887804530;Air conditioner 9000BTU with WIFI & heating
+cr_7858;38.77;EUR;0;5903887805216;Tower Air cooler 3in1
+cr_7903;32.32;EUR;727;5908256835054;Air dehumidifier
+cr_7905;49.21;EUR;0;5908256837331;Air cooler 8L 3 in 1 with remote controller
+cr_7907;166.92;EUR;0;5908256839335;Air conditioner 12000 BTU
+cr_7908;49.64;EUR;0;5902934831086;Air cooler 7L 3 in 1
+cr_7910;153.24;EUR;0;5902934831406;Air conditioner 7000 BTU
+cr_7912;146.53;EUR;0;5902934835480;Air conditioner 9000BTU 
+cr_7912.1;3.90;EUR;0;5902934836340;Window kit for CR7912 / AD7916
+cr_7920;53.06;EUR;0;5902934839341;Air cooler 8L ION 4 in 1 with remote controller
+cr_7926;123.88;EUR;0;5902934839457;Air conditioner 7000 BTU
+cr_7929;141.46;EUR;0;5903887804554;Air conditioner 9000 BTU
+cr_7970;14.93;EUR;871;5903887809535;Ultrasonic aroma diffuser 3in1
+cr_7973b;20.19;EUR;961;5905575900937;Ultrasonic Humidifier
+cr_7973w;20.19;EUR;1057;5905575900913;Ultrasonic Humidifier
+cr_7973.1;0.72;EUR;220;5905575900951;Air humidifier filter
+cr_8052;57.14;EUR;0;5908256835795;Washing machine + spinning
+cr_8054;33.56;EUR;0;5902934835732;Washing machine + spinning
+cr_8061;59.08;EUR;4302;5908256830165;Portable cooler 40 L
+cr_8065;30.18;EUR;1784;5908256831551;Portable cooler 21 L
+cr_8073;65.84;EUR;968;5908256839304;Ice cube maker
+cr_8076;229.97;EUR;10;5902934839464;Portable refrigerator 38L with compressor
+cr_8076.1;14.04;EUR;769;5902934839501;Adapter AC/DC for CR8076, AD8077, AD8081
+cr_8171b;11.77;EUR;544;5903887805377;Bathroom scale baby weighing mode 180kg
+cr_8171w;11.77;EUR;1163;5903887805391;Bathroom scale w/ baby weighing mode - 180kg
+cr_8185;12.77;EUR;780;5905575902221;Baby scale - 20kg - automatic HOLD function
+cr_9606;6.83;EUR;0;5908256832022;Lint remover with large blade 65 mm diameter
+cr_9620;8.80;EUR;549;5905575902344;Lint remover LCD
+cr_7820;38.13;EUR;0;5903887805940;Oil-filled LED radiator with remote control 15 ribs
+ad_1286;8.87;EUR;3492;5902934834230;Kettle glass 2,0 L
+ad_8174s;6.64;EUR;2081;5903887804639;Bathroom scale - LED display
+ad_8175;7.70;EUR;3610;5903887804677;Bathroom scale - LED display
+ad_8179;7.30;EUR;9734;5903887807548;Mechanical bathroom scale
+ms_1177;13.38;EUR;1415;5902934836609;Weather station
+ms_1261g;6.17;EUR;2868;5903887808958;Kettle plastic 1,7 L
+ms_1276;5.63;EUR;2846;5902934831109;Kettle plastic 1,0 L
+ms_1301b;12.54;EUR;44;5903887803915;Kettle 1,7 L
+ms_1301w;12.54;EUR;2036;5903887803908;Kettle 1,7 L
+ms_1302b;8.07;EUR;1648;5903887808521;Kettle glass 1,7 L
+ms_1302w;8.07;EUR;1594;5903887808545;Kettle glass 1,7 L
+ms_2109;3.52;EUR;2043;5908256837188;Curling iron - conical - 13-25mm
+ms_2152;16.06;EUR;1209;5908256831292;Foot massager
+ms_2249;6.55;EUR;1451;5902934831383;Hair dryer 2000 W
+ms_2250;6.99;EUR;579;5902934831338;HAIR DRYER - 2100W
+ms_2262;3.92;EUR;1590;5903887801249;Hair dryer 1000W
+ms_2264;5.50;EUR;880;5903887802284;Hair dryer 1400W
+ms_2311;4.69;EUR;1213;5908256832848;Hair straightener - ceramic
+ms_2826;12.20;EUR;1485;5908256839717;Hair clipper for pets
+ms_2842;10.32;EUR;1392;5905575901699;Hair clipper - LED - USB-c
+ms_2843;10.55;EUR;1289;5905575901866;Hair clipper with LCD
+ms_2920;7.80;EUR;2346;5908256839625;Shaver for men
+ms_2926;4.94;EUR;1282;5902934837460;Shaver for men
+ms_2926.1;1.85;EUR;201;5902934838184;Head for  MS2926
+ms_2929;1.37;EUR;0;5902934838474;Nose trimmer
+ms_2931;8.63;EUR;1960;5902934838917;Trimmer 5 in 1
+ms_3032;5.65;EUR;3459;5908256839878;Sandwich maker
+ms_3041;14.24;EUR;0;5902934834001;Nut Maker (24 pcs) XL
+ms_3045;13.87;EUR;1873;5902934835411;Sandwich maker 3 in 1
+ms_3050;18.32;EUR;1425;5902934839525;Electric contact grill
+ms_3145;3.60;EUR;936;5908256834217;Kitchen scale
+ms_3152;7.37;EUR;828;5908256836570;Scale kitchen with a bowl 2L
+ms_3159g;3.78;EUR;0;5902934830386;Kitchen scale
+ms_3159w;3.78;EUR;1513;5902934835268;Kitchen scale
+ms_3159y;3.78;EUR;1431;5902934830393;Kitchen scale
+ms_3164;3.89;EUR;1416;5902934834667;Kitchen scale with a bowl
+ms_3169w;3.42;EUR;0;5902934838818;Kitchen scale - INOX
+ms_3179b;4.55;EUR;777;5905575903501;Kitchen scale with a bowl
+ms_3179w;4.55;EUR;918;5905575903525;Kitchen scale with a bowl
+ms_3220;7.50;EUR;679;5903887800181;Toaster 2 slice
+ms_4010;5.56;EUR;0;5903887801171;Citrus juicer
+ms_4060gr;10.63;EUR;0;5902934830263;Blender
+ms_4079b;19.10;EUR;403;5902934839617;Blender
+ms_4079.1be;6.98;EUR;0;5902934837057;Jar for blender MS4079 - beige
+ms_4079.1r;6.98;EUR;266;5902934837040;Jar for blender MS4079 - red
+ms_4079.1b;6.98;EUR;78;5903887802017;Jar for blender MS4079 - black
+ms_4080;22.46;EUR;1468;5902934839204;Blender - Glass jar 1,5L
+ms_4080.1;6.86;EUR;0;5902934839228;Glass jar 1,5L
+ms_4126b;19.30;EUR;1426;5903887801874;Juice extractor 600W
+ms_4126;19.30;EUR;354;5902934831895;Juice extractor 600W
+ms_4217;36.34;EUR;2091;5902934838672;Planetary food processor 1200W
+ms_4403;45.13;EUR;1817;5908256836297;Espresso Machine - 15 bar
+ms_4432;3.66;EUR;1868;5908256831445;Pepper / salt mill
+ms_4485;6.64;EUR;15;5902934831444;Egg boiler for 3 eggs
+ms_4492;19.10;EUR;13;5903887803823;Vacuum sealer
+ms_4493b;1.23;EUR;1532;5903887801058;Milk frother
+ms_4493g;1.23;EUR;2200;5903887801072;Milk frother
+ms_4493p;1.23;EUR;193;5903887801096;Milk frother
+ms_4502b;1.40;EUR;2469;5903887806091;Milk frother
+ms_4619;6.56;EUR;971;5902934830157;Blender hand
+ms_4805;24.46;EUR;1027;5908256835849;Meat mincer
+ms_4809;22.85;EUR;2000;5902934833844;Meat mincer
+ms_4908;27.91;EUR;1881;5908256836983;Fryer deep 2,5 L
+ms_4910;18.19;EUR;1298;5902934830829;Fryer deep 1,5 L
+ms_5023;7.68;EUR;1810;5908256834309;Iron steel soleplate 2200 W
+ms_5028;8.71;EUR;494;5908256839380;Iron ceramic soleplate 2600 W
+ms_5031;11.04;EUR;1098;5902934833837;Iron ceramic 3000 W
+ms_5037;7.75;EUR;4042;5903887807609;Steam iron 2800W
+ms_6022;46.68;EUR;455;5902934838870;Bread maker - 15 Programs
+ms_6411;15.77;EUR;1830;5902934838894;Rice cooker - capacity 1.5L
+ms_6508;6.75;EUR;861;5908256839014;Electric stove One Burner
+ms_6509;10.83;EUR;1243;5908256839137;Electric stove Two Burner
+ms_7020.1;5.13;EUR;176;5908256835283;Mop pads for MS 7020 5 pcs.
+ms_7058;17.54;EUR;0;5905575905390;Vertical cyclone vacuum cleaner
+ms_7058.1;0.69;EUR;0;5905575905413;Spare filter for MS7058
+ms_7308;6.96;EUR;0;5908256832329;Fan 23 cm - desk
+ms_7309;10.59;EUR;0;5908256832336;Fan 30 cm - desk
+ms_7310;8.68;EUR;0;5908256832350;Fan 40 cm - desk
+ms_7311;10.10;EUR;0;5908256832343;Fan 40 cm - stand
+ms_7322;3.90;EUR;0;5902934839297;Fan - Desk - 15cm USB
+ms_7330;24.42;EUR;0;5903887804127;Velocity floor fan 50cm / 20"
+ms_7419;9.01;EUR;716;5902934832564;Electirc heating under-blanket (1)
+ms_7420;16.34;EUR;671;5902934832588;Electirc heating under-blanket (2)
+ms_7429;9.48;EUR;815;5902934837095;Electric heating pad - grey color
+ms_7710;5.01;EUR;0;5908256839854;Heater quartz
+ms_7719;6.05;EUR;0;5902934831710;Heater fan
+ms_7736;33.71;EUR;0;5903887801744;Ceramic fan heat tower LCD + Remote control + Timer
+ms_7741b;18.22;EUR;0;5903887806442;Convector heater with timer and Turbo fan
+ms_7741w;18.22;EUR;0;5903887806411;Convector heater with timer and Turbo fan
+ms_7804;13.80;EUR;0;5908256834262;Oil-filled radiator 7 ribs
+ms_7805;16.12;EUR;0;5908256834279;Oil-filled radiator 9 ribs
+ms_7806;18.43;EUR;0;5908256834286;Oil-filled radiator 11 ribs
+ms_7854;127.30;EUR;0;5903887804547;Air conditioner 9000BTU
+ms_7911;119.84;EUR;0;5902934835473;Air conditioner 5000BTU
+ms_7918;23.18;EUR;0;5902934839372;Air cooler 3in1 4L
+ms_7928;126.16;EUR;0;5902934839471;Air conditioner 7000 BTU
+ms_8053;33.56;EUR;0;5902934830959;Washing machine + spinning
+ms_8137;4.74;EUR;2081;5908256832381;Bathroom scale
+ms_8146;10.16;EUR;2667;5908256835481;Bathroom scale with analyzer
+ms_8149;4.88;EUR;441;5908256838291;Bathroom scale
+ms_8150b;5.23;EUR;45;5908256838581;Bathroom scale
+ms_8156;4.88;EUR;303;5908256838444;Bathroom scale
+ms_8160;3.50;EUR;1984;5902934830416;Bathroom mechanical scale
+ms_9610;1.62;EUR;3510;5908256833951;Lint remover
